@@ -1,0 +1,1622 @@
+# Swadeshi Apps
+
+**1502 Made-in-India Android apps**, grouped by category, each linked to its official listing.
+
+| | |
+|---|---|
+| Apps | **1502** |
+| With a verified package id | 592 |
+| With an official Gov.in AppStore page | 14 |
+| With an app icon | 1057 |
+| Categories | 15 |
+
+## Contents
+
+1. [Office, Productivity & AI Utilities](#office-productivity-ai-utilities) (304)
+2. [Other Indian Apps](#other-indian-apps) (179)
+3. [EdTech & Learning](#edtech-learning) (149)
+4. [Social Media, Messaging & Networking](#social-media-messaging-networking) (147)
+5. [Zoho Apps](#zoho-apps) (139)
+6. [Media, Streaming & Audio](#media-streaming-audio) (123)
+7. [Government, e-Governance & Citizen Services](#government-e-governance-citizen-services) (117)
+8. [Fintech, Payments & Banking](#fintech-payments-banking) (78)
+9. [Health, Fitness & Pharmacy](#health-fitness-pharmacy) (73)
+10. [E-Commerce, Quick-Commerce & Retail](#e-commerce-quick-commerce-retail) (65)
+11. [Travel, Mobility & Commute](#travel-mobility-commute) (54)
+12. [Gaming & Esports](#gaming-esports) (42)
+13. [Food Delivery, Restaurants & Logistics](#food-delivery-restaurants-logistics) (23)
+14. [Play Store alternatives (not Indian)](#play-store-alternatives-not-indian) (7)
+15. [Indian Native App Store Platforms](#indian-native-app-store-platforms) (2)
+16. [How to contribute](#how-to-contribute)
+
+## Office, Productivity & AI Utilities
+
+_304 apps_
+
+- [1DM: Browser & Video Download](https://play.google.com/store/search?q=1DM%3A%20Browser%20%26%20Video%20Download&c=apps) — Vicky Bonick
+- [1DM: Browser &amp; Video Download](https://play.google.com/store/apps/details?id=idm.internet.download.manager) — Vicky Bonick
+- [Adobe Scan Indian Alternatives (DocScanner India)](https://play.google.com/store/search?q=Adobe+Scan+Indian+Alternatives+%28DocScanner+India%29&c=apps)
+- [Aekant](https://play.google.com/store/search?q=Aekant&c=apps)
+- [Age Calculator](https://play.google.com/store/apps/details?id=com.geekmindapps.agecalc) — GeekMindApps
+- [AI Captions for Photos: CapGen](https://play.google.com/store/apps/details?id=aculix.capgen.app) — Aculix Technologies LLP
+- [AI Notes - Voice & Notepad](https://play.google.com/store/search?q=AI%20Notes%20-%20Voice%20%26%20Notepad&c=apps)
+- [AI Screenshot Finder PixelShot](https://play.google.com/store/apps/details?id=aculix.pixelshot.app) — Aculix Technologies LLP
+- [AI Voice Generator, TTS: Svara](https://play.google.com/store/apps/details?id=aculix.svara.text.tospeech) — Aculix Technologies LLP
+- [Airtel Thanks](https://play.google.com/store/search?q=Airtel%20Thanks&c=apps) — Bharti Airtel
+- [Alarm & Reminder - Sleep Clock](https://play.google.com/store/search?q=Alarm%20%26%20Reminder%20-%20Sleep%20Clock&c=apps)
+- [Alarm &amp; Reminder - Sleep Clock](https://play.google.com/store/apps/details?id=com.bedtimealarm.clockreminder) — Dwarkesh
+- [All in one AI](https://play.google.com/store/apps/details?id=com.shlok.allinoneai) — Zentrova
+- [All Social Video Downloader](https://play.google.com/store/apps/details?id=aculix.video.downloader.for.reels) — Aculix Technologies LLP
+- [Anubandha](https://play.google.com/store/apps/details?id=org.anubandha.mobile) — Sumeru Technology Solutions Pvt Ltd
+- [Audit360 (Auditee)](https://play.google.com/store/apps/details?id=com.sumeru.auditeeapp) — Sumeru Software Solutions Pvt Ltd
+- [Audit360° Lite](https://play.google.com/store/apps/details?id=com.sumeru.audit360lite) — Sumeru Technology Solutions Pvt Ltd
+- [Audit360° Pro](https://play.google.com/store/apps/details?id=com.sumeru.audit360pro) — Sumeru Technology Solutions Pvt Ltd
+- [BHARAT Plus AI](https://play.google.com/store/search?q=BHARAT%20Plus%20AI&c=apps)
+- [Bharat Scanner](https://play.google.com/store/search?q=Bharat+Scanner&c=apps)
+- [Bharatiya GPT](https://play.google.com/store/search?q=Bharatiya%20GPT&c=apps)
+- [BharNET : Indian Browser](https://play.google.com/store/apps/details?id=com.masters.masterbrowser) — Raut Masters
+- [BidAssist- Latest Govt Tenders](https://play.google.com/store/apps/details?id=com.ofbusiness.cipher) — OFB Tech Private Limited
+- [BrowserStack](https://play.google.com/store/search?q=BrowserStack&c=apps)
+- [Busy: GST Billing & Accounting](https://play.google.com/store/search?q=Busy%3A%20GST%20Billing%20%26%20Accounting&c=apps) — Busy Infotech
+- [Busy: GST Billing &amp; Accounting](https://play.google.com/store/apps/details?id=in.busy.app) — Busy Infotech Private Limited
+- [Calculator E Plus](https://play.google.com/store/apps/details?id=com.ninadkhire.calculatoreplus) — Ninad Khire
+- [Calendar](https://play.google.com/store/search?q=Calendar&c=apps)
+- [Calendar Planner 2025 - Widget](https://play.google.com/store/search?q=Calendar%20Planner%202025%20-%20Widget&c=apps)
+- [Calendar Reminder: Day Planner](https://play.google.com/store/apps/details?id=com.calendar.event.planner.reminder) — Loose Pen
+- [Callit: Caller ID, Block & SMS](https://play.google.com/store/search?q=Callit%3A%20Caller%20ID%2C%20Block%20%26%20SMS&c=apps)
+- [CamScanner, Doc- AiScanner](https://play.google.com/store/search?q=CamScanner%2C%20Doc-%20AiScanner&c=apps)
+- Canta Debloater — Canta (open source)
+- [Canva Alternatives (Poster Maker India)](https://play.google.com/store/search?q=Canva+Alternatives+%28Poster+Maker+India%29&c=apps)
+- [Card Scanner - business cards](https://play.google.com/store/apps/details?id=com.zoho.android.cardscanner) — Zoho Corporation
+- [Chat Translate by Translator](https://play.google.com/store/apps/details?id=com.voicetranslator.anytranslatorapp) — EKTA DIPAKBHAI PARMAR delightstarstudio
+- [Clap to Find My Phone Launcher](https://play.google.com/store/apps/details?id=com.findmyphone.clapfinderlauncher) — EKTA DIPAKBHAI PARMAR delightstarstudio
+- [CleverTap](https://play.google.com/store/search?q=CleverTap&c=apps)
+- [Clock Master - Custom Clock](https://play.google.com/store/search?q=Clock%20Master%20-%20Custom%20Clock&c=apps)
+- [CMM Launcher](https://play.google.com/store/search?q=CMM%20Launcher&c=apps)
+- [CMM Launcher 2.0](https://play.google.com/store/search?q=CMM%20Launcher%202.0&c=apps)
+- [Compress Image - MB to kB](https://play.google.com/store/apps/details?id=aculix.bulk.image.compressor) — Aculix Technologies LLP
+- [Contacts](https://play.google.com/store/apps/details?id=com.Phone_Contacts) — Smart Phone Call App
+- [Creately](https://play.google.com/store/search?q=Creately&c=apps) — Cinergix
+- [CtrlS Cloud](https://play.google.com/store/search?q=CtrlS%20Cloud&c=apps)
+- [Dailyhunt](https://play.google.com/store/apps/details?id=com.eterno)
+- [Darwinbox](https://play.google.com/store/search?q=Darwinbox&c=apps)
+- [DataMail](https://play.google.com/store/search?q=DataMail&c=apps)
+- [Desh Hindi Keyboard](https://play.google.com/store/search?q=Desh%20Hindi%20Keyboard&c=apps) — Desh Keyboard
+- [Desi AI GenZ Keyboard](https://play.google.com/store/apps/details?id=com.AnuvadiniAIWritoKeyboard) — Malla Sainadh Ram Narasimha sainadhmalla18
+- [DigiBoxx](https://play.google.com/store/search?q=DigiBoxx&c=apps)
+- [Document Scanner](https://play.google.com/store/search?q=Document%20Scanner&c=apps) — Lufick Technology (Gurugram)
+- [Docx Reader & Word Office](https://play.google.com/store/search?q=Docx%20Reader%20%26%20Word%20Office&c=apps)
+- [DomainIndia](https://play.google.com/store/search?q=DomainIndia&c=apps) — Domain Registration India Pvt Ltd
+- [DSR eANGEL](https://play.google.com/store/apps/details?id=com.pinaksecurity.eangle) — Mahidharo Tech Private Limited
+- [Dubverse](https://play.google.com/store/search?q=Dubverse&c=apps) — Dubverse (Gurugram)
+- [E2E Cloud](https://play.google.com/store/search?q=E2E%20Cloud&c=apps)
+- [eFolio : Website Builder](https://play.google.com/store/apps/details?id=portfolio.maker.efolio) — Creativethinkers
+- [Epic Browser](https://play.google.com/store/search?q=Epic%20Browser&c=apps)
+- [Equal AI - Caller ID Assistant](https://play.google.com/store/search?q=Equal%20AI%20-%20Caller%20ID%20Assistant&c=apps) — Equal
+- [ERPNext](https://play.google.com/store/search?q=ERPNext&c=apps)
+- [ESDS Software Solution](https://play.google.com/store/search?q=ESDS%20Software%20Solution&c=apps) — ESDS Software Solution (Nashik)
+- [File Manager - Zordo Files](https://play.google.com/store/search?q=File%20Manager%20-%20Zordo%20Files&c=apps) — Zordo
+- [File Manager by Lufick](https://play.google.com/store/search?q=File%20Manager%20by%20Lufick&c=apps) — Lufick
+- [File Manager: File Explorer](https://play.google.com/store/apps/details?id=com.audify.files) — Audify Player.
+- [Finance Calculator](https://play.google.com/store/search?q=Finance%20Calculator&c=apps)
+- [Fossify Calendar](https://play.google.com/store/search?q=Fossify%20Calendar&c=apps) — Fossify
+- [Fossify Contacts](https://play.google.com/store/search?q=Fossify%20Contacts&c=apps) — Fossify
+- [Fossify File Manager](https://play.google.com/store/search?q=Fossify%20File%20Manager&c=apps) — Fossify
+- [Fossify Gallery](https://play.google.com/store/search?q=Fossify%20Gallery&c=apps) — Fossify
+- [Fossify Messages](https://play.google.com/store/search?q=Fossify%20Messages&c=apps) — Fossify
+- [Fossify Music Player](https://play.google.com/store/search?q=Fossify%20Music%20Player&c=apps) — Fossify
+- [Fossify Phone](https://play.google.com/store/search?q=Fossify%20Phone&c=apps) — Fossify
+- [Fossify Voice Recorder Beta](https://play.google.com/store/search?q=Fossify%20Voice%20Recorder%20Beta&c=apps) — Fossify
+- [Foxcolab Mail: Encrypted Email](https://play.google.com/store/apps/details?id=com.foxcolab.mail) — Foxcolab Technologies
+- [Foxcolab Meet](https://play.google.com/store/apps/details?id=com.foxcolab.meet) — Foxcolab Technologies
+- [Freshworks](https://play.google.com/store/search?q=Freshworks&c=apps)
+- [Fueler](https://play.google.com/store/search?q=Fueler&c=apps)
+- [Gallery](https://play.google.com/store/search?q=Gallery&c=apps)
+- [Gallery - Photo & Video Albums](https://play.google.com/store/search?q=Gallery%20-%20Photo%20%26%20Video%20Albums&c=apps)
+- [Gallery - Photo Gallery, Album](https://play.google.com/store/search?q=Gallery%20-%20Photo%20Gallery%2C%20Album&c=apps)
+- [GimBooks](https://play.google.com/store/apps/details?id=com.asap.codenicely.pdf.gstinvoicing.free.mobile.easy.gst.invoice.quick.quickinvoice.gstinvoicing) — GimBooks
+- [GoLiveIndia - Stream Anywhere](https://play.google.com/store/apps/details?id=com.goliveindia) — Solypsis
+- [GreytHR](https://play.google.com/store/search?q=GreytHR&c=apps)
+- [greytHR - the one-stop HR App](https://play.google.com/store/apps/details?id=com.greytip.ghress) — Greytip Software
+- [greytHR Visage](https://play.google.com/store/apps/details?id=com.greythr.visage) — Greytip Software
+- [GST Invoice Generator - Zoho](https://play.google.com/store/search?q=GST%20Invoice%20Generator%20-%20Zoho&c=apps) — Zoho Corporation
+- [Hanooman AI](https://play.google.com/store/search?q=Hanooman%20AI&c=apps) — 3AI Holding
+- [Happy Expense](https://play.google.com/store/search?q=Happy%20Expense&c=apps)
+- [Hisab Kitab](https://play.google.com/store/apps/details?id=com.nk.extracker) — Hisab Kitab App
+- [hisabkitab: Billing Accounting](https://play.google.com/store/apps/details?id=com.app.hisabkitab) — Invoice, Bill, Stock, GST \u0026 Accounting App
+- [Hoppscotch](https://play.google.com/store/search?q=Hoppscotch&c=apps)
+- [HostingRaja](https://play.google.com/store/search?q=HostingRaja&c=apps) — HostingRaja (Chennai)
+- [HumSeva](https://play.google.com/store/apps/details?id=softa.humseva.services) — Softa Technologies
+- [IamHere](https://play.google.com/store/apps/details?id=mobi.iamhere.app) — IamHere
+- [iBharat](https://play.google.com/store/apps/details?id=com.ibharat.ibharatsearchengine) — iBharat.org
+- [image downloader](https://play.google.com/store/search?q=image%20downloader&c=apps)
+- [Image to Text Converter - OCR](https://play.google.com/store/apps/details?id=aculix.smart.text.recognizer) — Aculix Technologies LLP
+- [Imagine AI - Generate Images](https://play.google.com/store/search?q=Imagine%20AI%20-%20Generate%20Images&c=apps)
+- [inApp](https://play.google.com/store/apps/details?id=app.inapp.mobile) — Hitesh Choudhary
+- [IndiaFilings: Taxes Simplified](https://play.google.com/store/apps/details?id=com.IndiaFilings.iCFO) — IndiaFilings Private Limited
+- [Indus AI](https://play.google.com/store/search?q=Indus%20AI&c=apps) — Sarvam AI
+- [Indus by Sarvam](https://play.google.com/store/search?q=Indus%20by%20Sarvam&c=apps)
+- [Inshorts](https://play.google.com/store/apps/details?id=com.nis.app)
+- [InspirePix - AI Image Explorer](https://play.google.com/store/apps/details?id=com.vikrams.inspirepix) — VR  Labs
+- [Internet Speed Meter &amp; Tracker](https://play.google.com/store/apps/details?id=com.soovio.internetspeedmeter) — Soovio
+- [Internet Speed Meter Lite](https://play.google.com/store/apps/details?id=com.internet.speed.meter.lite) — DynamicApps
+- [InTouch Contacts & Caller ID](https://play.google.com/store/search?q=InTouch%20Contacts%20%26%20Caller%20ID&c=apps) — InTouchApp
+- [InVideo AI](https://play.google.com/store/search?q=InVideo+AI&c=apps)
+- [IRIS Peridot GST & MSME App](https://play.google.com/store/apps/details?id=com.irisgst.taxpayer.peridot) — IRIS RegTech Solutions Limited
+- [Jio Field Buddy](https://play.google.com/store/search?q=Jio%20Field%20Buddy&c=apps) — Jio Platforms
+- [Jio Partner World](https://play.google.com/store/search?q=Jio%20Partner%20World&c=apps) — Jio Platforms
+- [Jio POS Plus](https://play.google.com/store/search?q=Jio%20POS%20Plus&c=apps) — Jio Platforms
+- [JioAcoustic](https://play.google.com/store/search?q=JioAcoustic&c=apps) — Jio Platforms
+- [JioAICloud](https://play.google.com/store/search?q=JioAICloud&c=apps)
+- [JioArja](https://play.google.com/store/search?q=JioArja&c=apps) — Jio Platforms
+- [JioAstro](https://play.google.com/store/search?q=JioAstro&c=apps)
+- [JioAttendance](https://play.google.com/store/search?q=JioAttendance&c=apps) — Jio Platforms
+- [JioAutomotive](https://play.google.com/store/search?q=JioAutomotive&c=apps) — Jio Platforms
+- [JioBharat](https://play.google.com/store/search?q=JioBharat&c=apps) — Jio Platforms
+- [JioBusiness](https://play.google.com/store/search?q=JioBusiness&c=apps) — Jio Platforms
+- [JioCloud](https://play.google.com/store/search?q=JioCloud&c=apps) — Jio Platforms
+- [JioCX EasyPhone](https://play.google.com/store/search?q=JioCX%20EasyPhone&c=apps) — Jio Platforms
+- [JioData Enterprise](https://play.google.com/store/search?q=JioData%20Enterprise&c=apps) — Jio Platforms
+- [JioFit](https://play.google.com/store/search?q=JioFit&c=apps) — Jio Platforms
+- [JioGames](https://play.google.com/store/search?q=JioGames&c=apps) — Jio Platforms
+- [JioGauSamridhi](https://play.google.com/store/search?q=JioGauSamridhi&c=apps) — Jio Platforms
+- [JioHealthHub](https://play.google.com/store/search?q=JioHealthHub&c=apps) — Jio Platforms
+- [JioHome](https://play.google.com/store/search?q=JioHome&c=apps) — Jio Platforms
+- [JioHome JFE](https://play.google.com/store/search?q=JioHome%20JFE&c=apps) — Jio Platforms
+- [JioImmersive](https://play.google.com/store/search?q=JioImmersive&c=apps) — Jio Platforms
+- [JioKrishi](https://play.google.com/store/search?q=JioKrishi&c=apps) — Jio Platforms
+- [JioLocus](https://play.google.com/store/search?q=JioLocus&c=apps) — Jio Platforms
+- [JioMeet](https://play.google.com/store/search?q=JioMeet&c=apps) — Jio Platforms
+- [JioMobility Global](https://play.google.com/store/search?q=JioMobility%20Global&c=apps) — Jio Platforms
+- [JioNR QuickDial](https://play.google.com/store/search?q=JioNR%20QuickDial&c=apps) — Jio Platforms
+- [JioPhotos](https://play.google.com/store/search?q=JioPhotos&c=apps) — Jio Platforms
+- [JioPhotos XR](https://play.google.com/store/search?q=JioPhotos%20XR&c=apps) — Jio Platforms
+- [JioPlanet Indoor](https://play.google.com/store/search?q=JioPlanet%20Indoor&c=apps) — Jio Platforms
+- [JioPoint SmartLiving](https://play.google.com/store/search?q=JioPoint%20SmartLiving&c=apps) — Jio Platforms
+- [JioPOS Lite](https://play.google.com/store/search?q=JioPOS%20Lite&c=apps) — Jio Platforms
+- [JioRooms Share](https://play.google.com/store/search?q=JioRooms%20Share&c=apps) — Jio Platforms
+- [JioRWE](https://play.google.com/store/search?q=JioRWE&c=apps) — Jio Platforms
+- [JioSignage](https://play.google.com/store/search?q=JioSignage&c=apps) — Jio Platforms
+- [JioSignage Management](https://play.google.com/store/search?q=JioSignage%20Management&c=apps) — Jio Platforms
+- [JioSmartLiving](https://play.google.com/store/search?q=JioSmartLiving&c=apps) — Jio Platforms
+- [JioSphere](https://play.google.com/store/search?q=JioSphere&c=apps) — Jio Platforms
+- [JioSphere for TV](https://play.google.com/store/search?q=JioSphere%20for%20TV&c=apps) — Jio Platforms
+- [JioSphere XR](https://play.google.com/store/search?q=JioSphere%20XR&c=apps) — Jio Platforms
+- [JioSwitch](https://play.google.com/store/search?q=JioSwitch&c=apps) — Reliance Jio (Mumbai)
+- [JioThings](https://play.google.com/store/search?q=JioThings&c=apps) — Jio Platforms
+- [JioThings Business](https://play.google.com/store/search?q=JioThings%20Business&c=apps) — Jio Platforms
+- [JioTranslate](https://play.google.com/store/search?q=JioTranslate&c=apps) — Jio (Reliance)
+- [JioTV](https://play.google.com/store/search?q=JioTV&c=apps) — Jio Platforms
+- [JioTV+](https://play.google.com/store/search?q=JioTV%2B&c=apps) — Jio Platforms
+- [Jolt : Phone Dialer & Contacts](https://play.google.com/store/search?q=Jolt%20%3A%20Phone%20Dialer%20%26%20Contacts&c=apps)
+- [Journal It: Your Daily Diary](https://play.google.com/store/search?q=Journal%20It%3A%20Your%20Daily%20Diary&c=apps)
+- [JPW Network](https://play.google.com/store/search?q=JPW%20Network&c=apps) — Jio Platforms
+- [JWG FM Pro](https://play.google.com/store/search?q=JWG%20FM%20Pro&c=apps)
+- [Kaagaz Scanner](https://play.google.com/store/search?q=Kaagaz+Scanner&c=apps)
+- [Keka HR](https://play.google.com/store/search?q=Keka%20HR&c=apps)
+- [Kirana Calculator](https://play.google.com/store/apps/details?id=com.kiranacalculator) — Kirana Club
+- [Kirana Club: B2B Marketplace](https://play.google.com/store/apps/details?id=club.kirana) — Kirana Club
+- [Kirana Club: VIP Vyapari Group](https://play.google.com/store/search?q=Kirana%20Club%3A%20VIP%20Vyapari%20Group&c=apps)
+- [Kruti](https://play.google.com/store/search?q=Kruti&c=apps) — Ola Krutrim
+- [Krutrim](https://play.google.com/store/search?q=Krutrim&c=apps)
+- [Krutrim AI](https://play.google.com/store/search?q=Krutrim+AI&c=apps)
+- [Krutrim Cloud](https://play.google.com/store/search?q=Krutrim%20Cloud&c=apps)
+- [Landeed: Instant Land Records](https://play.google.com/store/apps/details?id=com.landeed) — John Salt Private Limited
+- [LeadSquared](https://play.google.com/store/search?q=LeadSquared&c=apps)
+- [LightX](https://play.google.com/store/search?q=LightX&c=apps) — Andor Communications (Delhi)
+- [Linkyards](https://play.google.com/store/apps/details?id=com.mclibra.linkyards) — MCLIBRA TECHNOLOGY SOLUTIONS PRIVATE LIMITED support
+- [Linq My Business](https://play.google.com/store/apps/details?id=com.linq.app) — Linq
+- [Lokal Jobs : Hire &amp; Find Jobs](https://play.google.com/store/apps/details?id=get.lokal.localjobs) — Lokal - AI enabled products for Bharat
+- [LoveLocal Dukaan: Sell Online](https://play.google.com/store/search?q=LoveLocal%20Dukaan%3A%20Sell%20Online&c=apps)
+- [Mappls (MapmyIndia)](https://play.google.com/store/apps/details?id=com.mmi.maps)
+- [Marathi Compass](https://play.google.com/store/apps/details?id=prime.nnkhire.marathicompass) — Ninad Khire
+- [mazu: Billing & Invoices](https://play.google.com/store/search?q=mazu%3A%20Billing%20%26%20Invoices&c=apps)
+- [mazu: Billing &amp; Invoices](https://play.google.com/store/apps/details?id=in_.mazu.app) — Busy Infotech Private Limited
+- [Messages](https://play.google.com/store/search?q=Messages&c=apps) — Jio Platforms
+- [MilesWeb](https://play.google.com/store/search?q=MilesWeb&c=apps) — MilesWeb Internet Services (Nashik)
+- [Mini Browser- Zordo Mini](https://play.google.com/store/apps/details?id=com.zordo.mini) — Zordo Technologies
+- [Mitra AI: in Indian languages](https://play.google.com/store/search?q=Mitra%20AI%3A%20in%20Indian%20languages&c=apps)
+- [Mitsu](https://play.google.com/store/search?q=Mitsu&c=apps) — Mitsu Inc
+- [Mobi-Lock](https://play.google.com/store/search?q=Mobi-Lock&c=apps)
+- [Mobile Forms App - Zoho Forms](https://play.google.com/store/search?q=Mobile%20Forms%20App%20-%20Zoho%20Forms&c=apps) — Zoho Corporation
+- [MOC OFFICE: PDF & Docs AI](https://play.google.com/store/search?q=MOC%20OFFICE%3A%20PDF%20%26%20Docs%20AI&c=apps)
+- [MOC OFFICE: PDF &amp; Docs AI](https://play.google.com/store/apps/details?id=com.rebelroot.mocoffice) — REBELROOT
+- [MoEngage](https://play.google.com/store/search?q=MoEngage&c=apps)
+- [My Diary - Daily Journal](https://play.google.com/store/search?q=My%20Diary%20-%20Daily%20Journal&c=apps)
+- [MyJio](https://play.google.com/store/search?q=MyJio&c=apps) — Jio Platforms
+- [mypatta: Get property records](https://play.google.com/store/apps/details?id=com.mypatta) — Vilya Technologies Private Limited
+- [myShiprocket](https://play.google.com/store/apps/details?id=com.shiprocket.consumer.orbit) — Shiprocket
+- [NATS 2.0 Face Auth Attendance](https://play.google.com/store/apps/details?id=com.NATSAttendance.myapp) — Malla Sainadh Ram Narasimha sainadhmalla18
+- [Naukri](https://play.google.com/store/search?q=Naukri&c=apps) — Info Edge
+- [navBharatAI](https://play.google.com/store/apps/details?id=com.navbharat.ai) — NavBharatAI
+- [Nestopar](https://play.google.com/store/apps/details?id=com.nestopar) — Nestopar pvt ltd
+- [NetVelocity](https://play.google.com/store/search?q=NetVelocity&c=apps) — Jio Platforms
+- [NetVelocity Enterprise](https://play.google.com/store/search?q=NetVelocity%20Enterprise&c=apps) — Jio Platforms
+- [NetVelocity FGOS](https://play.google.com/store/search?q=NetVelocity%20FGOS&c=apps) — Jio Platforms
+- [NetVelocity Inbuilding](https://play.google.com/store/search?q=NetVelocity%20Inbuilding&c=apps) — Jio Platforms
+- [No Watermark Video Downloader](https://play.google.com/store/apps/details?id=com.singularity.videodownloader) — Status Wala
+- [Notebook - AI Notes & Notepad](https://play.google.com/store/search?q=Notebook%20-%20AI%20Notes%20%26%20Notepad&c=apps)
+- [Notes Deck](https://play.google.com/store/search?q=Notes%20Deck&c=apps)
+- [OCR - Image to Text - Extract](https://play.google.com/store/search?q=OCR%20-%20Image%20to%20Text%20-%20Extract&c=apps)
+- [OKEN - CamScanner, PDF scanner](https://play.google.com/store/search?q=OKEN%20-%20CamScanner%2C%20PDF%20scanner&c=apps)
+- [One Click Lock Screen](https://play.google.com/store/apps/details?id=rk.android.app.lockscreen) — Rushikesh Kamewar
+- [Pabbly Connect](https://play.google.com/store/search?q=Pabbly%20Connect&c=apps)
+- [PagarBook:Attendance & Payroll](https://play.google.com/store/search?q=PagarBook%3AAttendance%20%26%20Payroll&c=apps) — PagarBook
+- [PDF Scanner & Editor by Kaagaz](https://play.google.com/store/search?q=PDF%20Scanner%20%26%20Editor%20by%20Kaagaz&c=apps) — Kaagaz Scanner
+- [PDF Scanner &amp; Editor by Kaagaz](https://play.google.com/store/apps/details?id=kaagaz.scanner.docs.pdf) — Kaagaz Apps
+- [Perfios](https://play.google.com/store/search?q=Perfios&c=apps)
+- [Phone Dialer & Calls](https://play.google.com/store/search?q=Phone%20Dialer%20%26%20Calls&c=apps)
+- [Phone Dialer &amp; Calls](https://play.google.com/store/apps/details?id=com.phonedialer.contactdialer) — EKTA DIPAKBHAI PARMAR delightstarstudio
+- [PicBox](https://play.google.com/store/apps/details?id=com.picbox.android) — Vaarta.me India Pvt Ltd
+- [Pinak Security &amp; Privacy](https://play.google.com/store/apps/details?id=com.pinak.security) — Mahidharo Tech Private Limited
+- [Pixel Search](https://play.google.com/store/search?q=Pixel%20Search&c=apps)
+- [Pixel Search: Universal Search](https://play.google.com/store/apps/details?id=rk.android.app.pixelsearch) — Rushikesh Kamewar
+- [PixelBin](https://play.google.com/store/search?q=PixelBin&c=apps) — Shopsense Retail Technologies (Mumbai)
+- [PMG Engineering](https://play.google.com/store/apps/details?id=com.pmg) — PMG ENGINEERING PRIVATE LIMITED abhinav.pandey
+- [Pocket Aces](https://play.google.com/store/search?q=Pocket+Aces&c=apps)
+- [Postman](https://play.google.com/store/search?q=Postman&c=apps)
+- [Privacy Dashboard](https://play.google.com/store/apps/details?id=rk.android.app.privacydashboard) — Rushikesh Kamewar
+- [Puducherry MinShakti](https://play.google.com/store/search?q=Puducherry%20MinShakti&c=apps) — Jio Platforms
+- [Qmamu](https://play.google.com/store/search?q=Qmamu&c=apps) — Qmamu
+- [QR Code Scanner, Read QR Codes](https://play.google.com/store/search?q=QR%20Code%20Scanner%2C%20Read%20QR%20Codes&c=apps)
+- [QuixiCloud Sync: Auto Backup](https://play.google.com/store/apps/details?id=com.quixicloud.quixicloudsync) — app@quixicloud.com
+- [R-POS Mobile](https://play.google.com/store/search?q=R-POS%20Mobile&c=apps) — Jio Platforms
+- [Radar for Zoho Desk](https://play.google.com/store/search?q=Radar%20for%20Zoho%20Desk&c=apps) — Zoho Corporation
+- [RCC Partner Auth](https://play.google.com/store/search?q=RCC%20Partner%20Auth&c=apps) — Jio Platforms
+- [RCM MS Calculator](https://play.google.com/store/apps/details?id=com.rcmmsc) — AppLocus
+- [Rediffmail](https://play.google.com/store/search?q=Rediffmail&c=apps)
+- [Reliance New Energy](https://play.google.com/store/search?q=Reliance%20New%20Energy&c=apps)
+- [Resta Signage](https://play.google.com/store/apps/details?id=softa.restasignage.digitalsignage) — Softa Technologies
+- ReVanced Manager — ReVanced (open source)
+- [RIL Meals](https://play.google.com/store/search?q=RIL%20Meals&c=apps) — Jio Platforms
+- [RPOS Fiber](https://play.google.com/store/search?q=RPOS%20Fiber&c=apps) — Jio Platforms
+- [Sales Assist](https://play.google.com/store/search?q=Sales%20Assist&c=apps) — Jio Platforms
+- [Salesine AI](https://play.google.com/store/search?q=Salesine+AI&c=apps)
+- [Samruddhi](https://play.google.com/store/search?q=Samruddhi&c=apps) — Jio Platforms
+- [Sarvam AI](https://play.google.com/store/search?q=Sarvam%20AI&c=apps)
+- [SayNamaste](https://play.google.com/store/search?q=SayNamaste&c=apps) — SayNamaste
+- [Search across Zoho- Zia Search](https://play.google.com/store/search?q=Search%20across%20Zoho-%20Zia%20Search&c=apps) — Zoho Corporation
+- [ShareAll](https://play.google.com/store/search?q=ShareAll&c=apps)
+- [Shiprocket - Courier Delivery](https://play.google.com/store/apps/details?id=com.shiprocket.shiprocket) — Shiprocket - eCommerce Logistics Solution
+- [Shiprocket Quick Delivery App](https://play.google.com/store/apps/details?id=com.shiprocket.quick) — Shiprocket - eCommerce Logistics Solution
+- [Shiprocket Quick Partner](https://play.google.com/store/apps/details?id=com.shiprocket.quickpartner) — Shiprocket - eCommerce Logistics Solution
+- [Shortcut Maker](https://play.google.com/store/apps/details?id=rk.android.app.shortcutmaker) — Rushikesh Kamewar
+- [Shoulder Level Tracker](https://play.google.com/store/apps/details?id=aculix.shoulder.level.tracker.app) — Aculix Technologies LLP
+- [Shunya AI](https://play.google.com/store/search?q=Shunya%20AI&c=apps)
+- [Signey](https://play.google.com/store/apps/details?id=com.sonant.isl) — Sonant
+- [Signzy](https://play.google.com/store/search?q=Signzy&c=apps)
+- [Simplified](https://play.google.com/store/search?q=Simplified&c=apps) — Simplified
+- [SMS Messages: Messaging App](https://play.google.com/store/search?q=SMS%20Messages%3A%20Messaging%20App&c=apps)
+- [SMS Organizer - Mezo](https://play.google.com/store/search?q=SMS%20Organizer%20-%20Mezo&c=apps)
+- [Softa Mail](https://play.google.com/store/apps/details?id=com.softamail.user) — Softa Technologies
+- [SolypTube - Video Downloader](https://play.google.com/store/apps/details?id=com.solyptube) — Solypsis
+- [SpaceByte Cloud](https://play.google.com/store/apps/details?id=com.manavtricks.manavtricks_cloud_storage) — SpaceByte Cloud
+- [Spark.Live](https://play.google.com/store/apps/details?id=com.helen.uptk) — Spark
+- [Spot Concierge](https://play.google.com/store/apps/details?id=com.spotcon) — Nexever Private Limited
+- [Status Downloader - Saver](https://play.google.com/store/apps/details?id=aculix.whatsium.app) — Aculix Technologies LLP
+- [Status Downloader -Save status](https://play.google.com/store/apps/details?id=com.vikrams.statusdownloader) — VR  Labs
+- [Status Saver - Download](https://play.google.com/store/apps/details?id=com.downloadwhatsapp.statussaver) — EKTA DIPAKBHAI PARMAR delightstarstudio
+- [Status Saver - Video Download](https://play.google.com/store/apps/details?id=com.heethjain.apps.statussaver) — Heeth Jain
+- [Stickify: Stickers in WhatsApp](https://play.google.com/store/search?q=Stickify%3A%20Stickers%20in%20WhatsApp&c=apps)
+- [Stoic Journal & Mindset: Mori](https://play.google.com/store/search?q=Stoic%20Journal%20%26%20Mindset%3A%20Mori&c=apps)
+- [Streams for Zoho Mail](https://play.google.com/store/search?q=Streams%20for%20Zoho%20Mail&c=apps) — Zoho Corporation
+- [SureMDM](https://play.google.com/store/apps/details?id=com.nix) — 42Gears
+- [Tender247 APP](https://play.google.com/store/apps/details?id=com.tender247.mobileapp) — i-Sourcing Technologies
+- [Titan Mail](https://play.google.com/store/search?q=Titan%20Mail&c=apps)
+- [TrackIt - Goal &amp; Time Tracker](https://play.google.com/store/apps/details?id=app.vinztech.trackit) — vinztech.app
+- [TrackIt: Study Tracker & Timer](https://play.google.com/store/search?q=TrackIt%3A%20Study%20Tracker%20%26%20Timer&c=apps)
+- [Trinka](https://play.google.com/store/search?q=Trinka&c=apps)
+- [TripuraArja](https://play.google.com/store/search?q=TripuraArja&c=apps) — Jio Platforms
+- [Troop Messenger](https://play.google.com/store/search?q=Troop%20Messenger&c=apps)
+- [Troop Slips - Notepad Notes](https://play.google.com/store/search?q=Troop%20Slips%20-%20Notepad%20Notes&c=apps) — Troop Messenger
+- [Tubematè Mp4 Video Downloader](https://play.google.com/store/apps/details?id=com.uniquevpn.vpnglobal) — Classic Infinity
+- [UPPCL SMART](https://play.google.com/store/search?q=UPPCL%20SMART&c=apps)
+- [Vehicleinfo - RTO Information](https://play.google.com/store/apps/details?id=com.vehicle.rto.vahan.status.information.register) — CARS24 Services Private Limited
+- [Vernacular.ai](https://play.google.com/store/search?q=Vernacular.ai&c=apps)
+- [Vi App](https://play.google.com/store/search?q=Vi%20App&c=apps) — Vodafone Idea
+- [Video Downloader For Pinterest](https://play.google.com/store/apps/details?id=aculix.pinload.app) — Aculix Technologies LLP
+- [Video Downloader for Reddit](https://play.google.com/store/apps/details?id=aculix.viddit.downloader) — Aculix Technologies LLP
+- [Video Downloader for Twitch](https://play.google.com/store/apps/details?id=aculix.dwitch.app) — Aculix Technologies LLP
+- [Video Downloader for Twitter X](https://play.google.com/store/apps/details?id=tweeload.twitter.video.downloader) — Aculix Technologies LLP
+- [Vidsafe Player](https://play.google.com/store/search?q=Vidsafe%20Player&c=apps)
+- [VisualDub](https://play.google.com/store/search?q=VisualDub&c=apps) — NeuralGarage
+- [Volkai](https://play.google.com/store/search?q=Volkai&c=apps)
+- [W3Infotech](https://play.google.com/store/search?q=W3Infotech&c=apps) — W3Infotech (Kochi)
+- [Way2News](https://play.google.com/store/search?q=Way2News&c=apps)
+- [WebEngage](https://play.google.com/store/search?q=WebEngage&c=apps)
+- [WorkMate](https://play.google.com/store/search?q=WorkMate&c=apps)
+- [Workspace by PMG](https://play.google.com/store/apps/details?id=com.pmg.workspace) — PMG ENGINEERING PRIVATE LIMITED abhinav.pandey
+- [Xanfi](https://play.google.com/store/search?q=Xanfi&c=apps)
+- [Xploree AI Keyboard](https://play.google.com/store/apps/details?id=com.kpt.xploree.app) — Xploree
+- [Zoho Catalyst](https://play.google.com/store/search?q=Zoho%20Catalyst&c=apps)
+- [Zoho Cliq](https://play.google.com/store/search?q=Zoho+Cliq&c=apps) — Zoho Corporation
+- [Zoho CRM](https://play.google.com/store/search?q=Zoho+CRM&c=apps) — Zoho Corporation
+- [Zoho Expense](https://play.google.com/store/search?q=Zoho+Expense&c=apps) — Zoho Corporation
+- [Zoho Invoice - GST Invoice App](https://play.google.com/store/apps/details?id=com.zoho.invoice) — Zoho Corporation
+- [Zoho Mail](https://play.google.com/store/apps/details?id=com.zoho.mail) — Zoho Corporation
+- [Zoho Workplace](https://play.google.com/store/search?q=Zoho+Workplace&c=apps) — Zoho Corporation
+- [Zordo Browser - Fast &amp; Secure](https://play.google.com/store/apps/details?id=com.zordo.browser) — Zordo Technologies
+- [Zwato](https://play.google.com/store/apps/details?id=com.softa.zwato) — Softa Technologies
+
+## Other Indian Apps
+
+_179 apps_
+
+- [Aalaya Hindu Devotional Songs](https://play.google.com/store/apps/details?id=raaga.devotional.android) — Raaga.com
+- [AgriLokal - Smart Kisan App](https://play.google.com/store/apps/details?id=com.agrilokal.kisan) — Lokal - AI enabled products for Bharat
+- [All Festival Wishes Images](https://play.google.com/store/search?q=All%20Festival%20Wishes%20Images&c=apps)
+- [All God Mantra](https://play.google.com/store/search?q=All%20God%20Mantra&c=apps)
+- [All God Mantra Counter Pro](https://play.google.com/store/apps/details?id=com.app.mantracounterpro) — Daily Chants
+- [All God Wallpapers Bhakti](https://play.google.com/store/apps/details?id=com.wallpapers.allhindugod) — vkandroinfo
+- [Astro Sadhana: Vedic Astrology](https://play.google.com/store/search?q=Astro%20Sadhana%3A%20Vedic%20Astrology&c=apps)
+- [AstroSage Kundli: AI Astrology](https://play.google.com/store/search?q=AstroSage%20Kundli%3A%20AI%20Astrology&c=apps) — AstroSage
+- [Astrotalk - Talk to Astrologer](https://play.google.com/store/search?q=Astrotalk%20-%20Talk%20to%20Astrologer&c=apps) — Astrotalk
+- [Astroyogi - Astrology & Kundli](https://play.google.com/store/search?q=Astroyogi%20-%20Astrology%20%26%20Kundli&c=apps) — Astroyogi
+- [Bajrang Baan (Lofi)](https://play.google.com/store/apps/details?id=com.bhaktimusic.lofibhajan.ringtone) — ViaNet Bhakti
+- [Bangla Keyboard (Bharat)](https://play.google.com/store/apps/details?id=bangla.keyboard.bangla.stickers.app) — Bharat Keyboards
+- [BCCI](https://play.google.com/store/apps/details?id=tv.bcci) — BCCI
+- [Bhagavad Gita ( भगवद् गीता )](https://play.google.com/store/search?q=Bhagavad%20Gita%20%28%20%E0%A4%AD%E0%A4%97%E0%A4%B5%E0%A4%A6%E0%A5%8D%20%E0%A4%97%E0%A5%80%E0%A4%A4%E0%A4%BE%20%29&c=apps)
+- [Bhagavad Gita - Krishna Bhakti](https://play.google.com/store/apps/details?id=org.jkyog.radhakrishnabhakti) — JKYOG - Jagadguru Kripaluji Yog
+- [Bhagavad Gita Hindi & English](https://play.google.com/store/search?q=Bhagavad%20Gita%20Hindi%20%26%20English&c=apps)
+- [Bhaktgan App - भक्तगण ऐप](https://play.google.com/store/search?q=Bhaktgan%20App%20-%20%E0%A4%AD%E0%A4%95%E0%A5%8D%E0%A4%A4%E0%A4%97%E0%A4%A3%20%E0%A4%90%E0%A4%AA&c=apps)
+- [Bhakti Bhajan](https://play.google.com/store/apps/details?id=com.aligarh.bhakti_bhajan) — Priyank Aligarh
+- [Bhakti Connect](https://play.google.com/store/apps/details?id=com.bhakticonnect.puja) — Bhakti Connect
+- [Bhakti Ringtone and Wallpaper](https://play.google.com/store/search?q=Bhakti%20Ringtone%20and%20Wallpaper&c=apps)
+- [Bhakti Sangrah](https://play.google.com/store/search?q=Bhakti%20Sangrah&c=apps)
+- [Bhakti song - Bhajan geet](https://play.google.com/store/search?q=Bhakti%20song%20-%20Bhajan%20geet&c=apps)
+- [Bhakti Status - भक्ति स्टेटस](https://play.google.com/store/apps/details?id=com.zalak.android) — Toolnt App Services
+- [BharatAgri: Krushidukan App](https://play.google.com/store/apps/details?id=com.leanagri.leannutri) — BharatAgri
+- [BigHaat Smart Farming App](https://play.google.com/store/apps/details?id=com.BigHaat) — BigHaat Agro
+- [Birthday Wishes, Images](https://play.google.com/store/search?q=Birthday%20Wishes%2C%20Images&c=apps)
+- [Bobble AI Keyboard Font,Status](https://play.google.com/store/apps/details?id=com.touchtalent.bobbleapp) — Bobble AI
+- [Brandkit - 365 Festival Poster](https://play.google.com/store/apps/details?id=com.mahidharo.brandkit) — Mahidharo Tech Private Limited
+- [Broken Screen Wallpaper 2023](https://play.google.com/store/apps/details?id=com.brokenscreenwallpaperhd.brokenscreenwallpaper4k) — EKTA DIPAKBHAI PARMAR delightstarstudio
+- [BSNL Selfcare](https://play.google.com/store/search?q=BSNL%20Selfcare&c=apps) — BSNL
+- [Clickastro Kundli : Astrology](https://play.google.com/store/search?q=Clickastro%20Kundli%20%3A%20Astrology&c=apps) — Clickastro
+- [CNBC-TV18: Business News](https://play.google.com/store/search?q=CNBC-TV18%3A%20Business%20News&c=apps) — Network18
+- [Crafto AI - Status &amp; Quotes](https://play.google.com/store/apps/details?id=com.crafto.android) — Kutumb App
+- [CREX - Just Cricket](https://play.google.com/store/search?q=CREX%20-%20Just%20Cricket&c=apps) — CREX (Cricket Exchange)
+- [CricBlaze : Live Cricket Score](https://play.google.com/store/search?q=CricBlaze%20%3A%20Live%20Cricket%20Score&c=apps)
+- [Cricbuzz - In Indian Languages](https://play.google.com/store/search?q=Cricbuzz%20-%20In%20Indian%20Languages&c=apps) — Cricbuzz
+- [Cricbuzz - Live Cricket Scores](https://play.google.com/store/search?q=Cricbuzz%20-%20Live%20Cricket%20Scores&c=apps) — Cricbuzz
+- [CricJust](https://play.google.com/store/search?q=CricJust&c=apps)
+- [Cricket Line Guru](https://play.google.com/store/search?q=Cricket%20Line%20Guru&c=apps)
+- [Cricket LineX: Fast Live score](https://play.google.com/store/search?q=Cricket%20LineX%3A%20Fast%20Live%20score&c=apps)
+- [CricRed - Live Cricket Score](https://play.google.com/store/search?q=CricRed%20-%20Live%20Cricket%20Score&c=apps)
+- [Daily Chants: Mantra Chanting](https://play.google.com/store/apps/details?id=com.app.dailychants) — Daily Chants
+- [Daily Chants: Mantras Chanting](https://play.google.com/store/search?q=Daily%20Chants%3A%20Mantras%20Chanting&c=apps)
+- [DeHaat Kisan: Farming Guide](https://play.google.com/store/apps/details?id=app.intspvt.com.farmer) — DeHaat
+- [Desh Marathi Keyboard](https://play.google.com/store/search?q=Desh%20Marathi%20Keyboard&c=apps)
+- [Devalay](https://play.google.com/store/apps/details?id=com.devalay) — PMG ENGINEERING PRIVATE LIMITED abhinav.pandey
+- [DevDham Puja Offerings Temples](https://play.google.com/store/search?q=DevDham%20Puja%20Offerings%20Temples&c=apps)
+- [Dharmayana - Daily Hindu App](https://play.google.com/store/apps/details?id=in.dharmayana.android) — OIT Innovations Private Limited
+- [Durga Maa Ringtones](https://play.google.com/store/apps/details?id=com.bhaktiappsstore.durgamaaringtonesangrah) — Bhakti Apps Store
+- [Durlabh Darshan](https://play.google.com/store/apps/details?id=com.TechXR.DurlabhDarshan) — TechXR Innovations
+- [English News by Dainik Bhaskar](https://play.google.com/store/search?q=English%20News%20by%20Dainik%20Bhaskar&c=apps) — DB Corp (Dainik Bhaskar)
+- [English Voice Typing Keyboard](https://play.google.com/store/search?q=English%20Voice%20Typing%20Keyboard&c=apps)
+- [Epic Privacy Browser](https://play.google.com/store/apps/details?id=com.epic.browser) — Epic Privacy Browser
+- [Esports Logo Gaming Logo Maker](https://play.google.com/store/apps/details?id=com.ist.esportlogo) — Appexel App Maker
+- [Fitness Motivation Quotes](https://play.google.com/store/search?q=Fitness%20Motivation%20Quotes&c=apps)
+- [Good Morning Images 2025](https://play.google.com/store/search?q=Good%20Morning%20Images%202025&c=apps)
+- [Good Morning Images, SMS](https://play.google.com/store/search?q=Good%20Morning%20Images%2C%20SMS&c=apps)
+- [Good Night Images](https://play.google.com/store/search?q=Good%20Night%20Images&c=apps)
+- [Hanuman ji wallpaper : Hanuman](https://play.google.com/store/apps/details?id=com.wallpapers.hanumannewapp) — vkandroinfo
+- [Hanuman Wallpapers-Bajrangbali](https://play.google.com/store/search?q=Hanuman%20Wallpapers-Bajrangbali&c=apps)
+- [Happy New Year Images & SMS](https://play.google.com/store/search?q=Happy%20New%20Year%20Images%20%26%20SMS&c=apps)
+- [Haqdarshak](https://play.google.com/store/apps/details?id=com.haqdarshak.jana) — Haqdarshak Empowerment Solutions
+- [Headfone Meet - Make Friends](https://play.google.com/store/apps/details?id=com.headfone.www.meet) — Headfone
+- [HiAstro - Chat with Astrologer](https://play.google.com/store/search?q=HiAstro%20-%20Chat%20with%20Astrologer&c=apps)
+- [Hindi Keyboard (Bharat)](https://play.google.com/store/apps/details?id=hindi.keyboard.hindi.stickers.app) — Bharat Keyboards
+- [Hindi Motivational Quotes](https://play.google.com/store/search?q=Hindi%20Motivational%20Quotes&c=apps)
+- [Hindi News by Dainik Bhaskar](https://play.google.com/store/search?q=Hindi%20News%20by%20Dainik%20Bhaskar&c=apps) — DB Corp (Dainik Bhaskar)
+- [Hindi News:Aaj Tak Live TV App](https://play.google.com/store/search?q=Hindi%20News%3AAaj%20Tak%20Live%20TV%20App&c=apps) — India Today Group
+- [Hindi News:Times Now Navbharat](https://play.google.com/store/search?q=Hindi%20News%3ATimes%20Now%20Navbharat&c=apps) — Times Network
+- [Hindi Shayari Status Attitude](https://play.google.com/store/search?q=Hindi%20Shayari%20Status%20Attitude&c=apps)
+- [Hindi Status Downloader 2025](https://play.google.com/store/apps/details?id=com.statuswala.hindistatus) — Status Wala
+- [Hindi Video Status 2025](https://play.google.com/store/apps/details?id=com.singularity.newhindistatus) — Status Wala
+- [Hindu Granth - Sa & Hi](https://play.google.com/store/search?q=Hindu%20Granth%20-%20Sa%20%26%20Hi&c=apps)
+- [HinduNidhi](https://play.google.com/store/apps/details?id=com.w3brain.hindunidhi) — W3Brain
+- [Home Design AI](https://play.google.com/store/apps/details?id=com.vikrams.homeai) — VR  Labs
+- [Horocosmo - Talk To Astrologer](https://play.google.com/store/search?q=Horocosmo%20-%20Talk%20To%20Astrologer&c=apps)
+- [HorosTalk Partner App](https://play.google.com/store/apps/details?id=com.horostalk.partner) — Mahidharo Tech Private Limited
+- [HorosTalk: Astrology, Kundali](https://play.google.com/store/apps/details?id=com.horostalk.customer) — Mahidharo Tech Private Limited
+- [India Today - English News](https://play.google.com/store/search?q=India%20Today%20-%20English%20News&c=apps) — India Today Group
+- [InnerBhakti](https://play.google.com/store/search?q=InnerBhakti&c=apps)
+- [Inpix: Status with your Photo](https://play.google.com/store/apps/details?id=com.cardfeed) — Inshorts
+- [Inspirational Quotes Daily](https://play.google.com/store/search?q=Inspirational%20Quotes%20Daily&c=apps)
+- [InstaAstro: Talk to Astrologer](https://play.google.com/store/search?q=InstaAstro%3A%20Talk%20to%20Astrologer&c=apps) — InstaAstro
+- [IPL](https://play.google.com/store/apps/details?id=com.pulselive.bcci.android) — BCCI
+- [Jagran Fatafat](https://play.google.com/store/search?q=Jagran%20Fatafat&c=apps) — Jagran Prakashan
+- [Jagran Hindi News & Epaper App](https://play.google.com/store/search?q=Jagran%20Hindi%20News%20%26%20Epaper%20App&c=apps) — Jagran Prakashan
+- [Jagran Local](https://play.google.com/store/search?q=Jagran%20Local&c=apps) — Jagran Prakashan
+- [JioNews - News & Coupons](https://play.google.com/store/search?q=JioNews%20-%20News%20%26%20Coupons&c=apps) — Jio (Reliance)
+- [Just Digital Japa Counter](https://play.google.com/store/apps/details?id=just.nnkhire.justcounter) — Ninad Khire
+- [Kannada Video Status 2025](https://play.google.com/store/apps/details?id=com.singularity.nammakannadastatus) — Status Wala
+- [Kirtanavali](https://play.google.com/store/search?q=Kirtanavali&c=apps)
+- [Kundli - Astrology & Horoscope (mypandit icon)](https://play.google.com/store/search?q=Kundli%20-%20Astrology%20%26%20Horoscope%20%28mypandit%20icon%29&c=apps)
+- [Kundli - Astrology & Horoscope (sun icon)](https://play.google.com/store/search?q=Kundli%20-%20Astrology%20%26%20Horoscope%20%28sun%20icon%29&c=apps)
+- [Life Hacks](https://play.google.com/store/apps/details?id=com.funapps.hacks) — Fun Apps
+- [Lite Browser - Retifo Browser](https://play.google.com/store/apps/details?id=com.zordo.statussaver) — Zordo Technologies
+- [LoFi Bhajan - लोफी भजन](https://play.google.com/store/search?q=LoFi%20Bhajan%20-%20%E0%A4%B2%E0%A5%8B%E0%A4%AB%E0%A5%80%20%E0%A4%AD%E0%A4%9C%E0%A4%A8&c=apps)
+- [Lokal: Breaking Info & Jobs](https://play.google.com/store/search?q=Lokal%3A%20Breaking%20Info%20%26%20Jobs&c=apps) — Lokal
+- [Lokmat News & Epaper App](https://play.google.com/store/search?q=Lokmat%20News%20%26%20Epaper%20App&c=apps) — Lokmat Media
+- [Loksatta Marathi News + Epaper](https://play.google.com/store/search?q=Loksatta%20Marathi%20News%20%2B%20Epaper&c=apps) — The Indian Express group
+- [Love Shayari Hindi 2025](https://play.google.com/store/search?q=Love%20Shayari%20Hindi%202025&c=apps)
+- [MagTapp - Browser, PDF, Learn](https://play.google.com/store/search?q=MagTapp%20-%20Browser%2C%20PDF%2C%20Learn&c=apps)
+- [Make Your Quotes - arusaQuotes](https://play.google.com/store/apps/details?id=com.arusaquotes) — AppLocus
+- [Malayalam Keyboard (Bharat)](https://play.google.com/store/apps/details?id=malayalam.keyboard.malayalam.stickers.app) — Bharat Keyboards
+- [Mantra Collection](https://play.google.com/store/apps/details?id=com.geekmindapps.mantracollection) — GeekMindApps
+- [Mantra Japa - Counter&Tracker](https://play.google.com/store/search?q=Mantra%20Japa%20-%20Counter%26Tracker&c=apps)
+- [Mantra Sangrah मंत्र संग्रह](https://play.google.com/store/apps/details?id=in.vasudev.mantrasangrah) — Naimitik Apps
+- [Mantra Sangrah मंत्रसंग्रह2024](https://play.google.com/store/search?q=Mantra%20Sangrah%20%E0%A4%AE%E0%A4%82%E0%A4%A4%E0%A5%8D%E0%A4%B0%E0%A4%B8%E0%A4%82%E0%A4%97%E0%A5%8D%E0%A4%B0%E0%A4%B92024&c=apps)
+- [Marathi Keyboard (Bharat)](https://play.google.com/store/apps/details?id=marathi.keyboard.marathi.stickers.app) — Bharat Keyboards
+- [Marathi Kirtan | मराठी कीर्तन](https://play.google.com/store/search?q=Marathi%20Kirtan%20%7C%20%E0%A4%AE%E0%A4%B0%E0%A4%BE%E0%A4%A0%E0%A5%80%20%E0%A4%95%E0%A5%80%E0%A4%B0%E0%A5%8D%E0%A4%A4%E0%A4%A8&c=apps)
+- [Marathi News by Sakal](https://play.google.com/store/search?q=Marathi%20News%20by%20Sakal&c=apps) — Sakal Media
+- [Marathi News Maharashtra Times](https://play.google.com/store/search?q=Marathi%20News%20Maharashtra%20Times&c=apps) — Times Internet
+- [Marathi Status 2025](https://play.google.com/store/apps/details?id=com.statuswala.marathistatus) — Status Wala
+- [Marathi Suvichar Shivaji Photo](https://play.google.com/store/search?q=Marathi%20Suvichar%20Shivaji%20Photo&c=apps)
+- [Marathi Video Status 2025](https://play.google.com/store/apps/details?id=com.singularity.newmarathistatus) — Status Wala
+- [Marathi Video Status 2025 (2)](https://play.google.com/store/search?q=Marathi%20Video%20Status%202025%20%282%29&c=apps)
+- [Medial - Startup News and Tech](https://play.google.com/store/search?q=Medial%20-%20Startup%20News%20and%20Tech&c=apps) — Medial
+- [Mere Ram - मेरे राम](https://play.google.com/store/apps/details?id=com.bhaktimusic.mereram) — ViaNet Bhakti
+- [Mere Shiv - मेरे शिव](https://play.google.com/store/apps/details?id=com.bhaktimusic.mereshiv) — ViaNet Bhakti
+- [Mini Browser, Lite- Zordo Mini](https://play.google.com/store/search?q=Mini%20Browser%2C%20Lite-%20Zordo%20Mini&c=apps) — Zordo
+- [Mint Keyboard:Fonts,Emojis](https://play.google.com/store/apps/details?id=ai.mint.keyboard) — Bobble AI
+- [Morning Mantra](https://play.google.com/store/apps/details?id=com.soralapps.morningmantra) — SoralApps
+- [Motivational Quotes in Hindi](https://play.google.com/store/search?q=Motivational%20Quotes%20in%20Hindi&c=apps)
+- [My Diary: Locked Daily Journal](https://play.google.com/store/apps/details?id=com.ist.diary) — Appexel App Maker
+- [myBhakti - Vrat, Stotra & Japa](https://play.google.com/store/search?q=myBhakti%20-%20Vrat%2C%20Stotra%20%26%20Japa&c=apps)
+- [myBhakti - Vrat, Stotra &amp; Japa](https://play.google.com/store/apps/details?id=com.itsraghav.ananta_vaishnav_calendar) — Infinex Solutions
+- [NaiDunia Hindi News & Epaper](https://play.google.com/store/search?q=NaiDunia%20Hindi%20News%20%26%20Epaper&c=apps) — Jagran Prakashan
+- [Namaste - Status &amp; Quotes](https://play.google.com/store/apps/details?id=com.amibba.namaste) — Amibba
+- [NBT Local & Public Hindi News](https://play.google.com/store/search?q=NBT%20Local%20%26%20Public%20Hindi%20News&c=apps) — Times Internet
+- [NDTV : Daily News & Updates](https://play.google.com/store/search?q=NDTV%20%3A%20Daily%20News%20%26%20Updates&c=apps) — NDTV
+- [Netos Browser](https://play.google.com/store/search?q=Netos%20Browser&c=apps)
+- [News18: Breaking & Local News](https://play.google.com/store/search?q=News18%3A%20Breaking%20%26%20Local%20News&c=apps) — Network18
+- [Ninja Kisan : Kisan App](https://play.google.com/store/apps/details?id=com.ninja.kisaan) — NinjaCart (63Ideas Infolabs Private Limited)
+- [OneCricket: News & Live Scores](https://play.google.com/store/search?q=OneCricket%3A%20News%20%26%20Live%20Scores&c=apps)
+- [Pandit Ji Astrology Prediction](https://play.google.com/store/search?q=Pandit%20Ji%20Astrology%20Prediction&c=apps)
+- [Photo Keyboard Themes - FotoAI](https://play.google.com/store/search?q=Photo%20Keyboard%20Themes%20-%20FotoAI&c=apps)
+- [Poster Maker &amp; Banner Maker](https://play.google.com/store/apps/details?id=com.adpostermaker.graphicdesign.flyermaker) — Digital Marketing Tool - Flyer Maker, Poster Maker
+- [Poster Maker - Flyer Creator](https://play.google.com/store/apps/details?id=com.ist.artlab) — Appexel App Maker
+- [Private Browser, VPN- Zordo](https://play.google.com/store/search?q=Private%20Browser%2C%20VPN-%20Zordo&c=apps) — Zordo
+- [Quotes Creator - Quote Maker](https://play.google.com/store/apps/details?id=com.ist.quotescreator) — Appexel App Maker
+- [Quotes Creator - Quote Writer](https://play.google.com/store/apps/details?id=com.vikrams.quotescreator) — VR  Labs
+- [Saam TV](https://play.google.com/store/search?q=Saam%20TV&c=apps) — Saam TV
+- [Sahi Jobs](https://play.google.com/store/apps/details?id=in.sahijobs.findjobs) — Lokal - AI enabled products for Bharat
+- [Sanatan App](https://play.google.com/store/apps/details?id=com.duolop.sanatan) — Sanatan
+- [Sanatan Ringtone Wallpaper](https://play.google.com/store/apps/details?id=com.sanatan.lite) — Sanatan
+- [Sanatan Wallpaper Status Aarti](https://play.google.com/store/search?q=Sanatan%20Wallpaper%20Status%20Aarti&c=apps)
+- [Sanskrit Keyboard](https://play.google.com/store/apps/details?id=com.sanskrit.keyboard.for.android) — Desh Global
+- [Sanskruti - Read Bhagavad Gita](https://play.google.com/store/search?q=Sanskruti%20-%20Read%20Bhagavad%20Gita&c=apps)
+- [Saregama Bhakti](https://play.google.com/store/search?q=Saregama%20Bhakti&c=apps) — Saregama India
+- [Shiv Chalisa - Shiv Tandav](https://play.google.com/store/apps/details?id=com.chalisa.shivchalisa) — NextMob IT Solutions
+- [Shiv Chalisa: Aarti Tandav App](https://play.google.com/store/search?q=Shiv%20Chalisa%3A%20Aarti%20Tandav%20App&c=apps)
+- [Shraddha - Stotras & Mantras](https://play.google.com/store/search?q=Shraddha%20-%20Stotras%20%26%20Mantras&c=apps)
+- [Siddhi Mantra : सिद्धि मंत्र](https://play.google.com/store/apps/details?id=com.blogspot.shivashaktiapp.siddhimantra) — MahaDevi Technology
+- [Square Foot Hub](https://play.google.com/store/apps/details?id=com.squarefoothub) — Creativethinkers
+- [Sri Mandir - Puja & Chadhava](https://play.google.com/store/search?q=Sri%20Mandir%20-%20Puja%20%26%20Chadhava&c=apps) — Sri Mandir
+- [Sri Mandir - Puja &amp; Chadhava](https://play.google.com/store/apps/details?id=com.mandir) — Sri Mandir Team
+- [Sri Panchang](https://play.google.com/store/search?q=Sri%20Panchang&c=apps)
+- [Status Post Maker – Quotes App](https://play.google.com/store/search?q=Status%20Post%20Maker%20%E2%80%93%20Quotes%20App&c=apps)
+- [STUMPS - The Cricket Scorer](https://play.google.com/store/search?q=STUMPS%20-%20The%20Cricket%20Scorer&c=apps)
+- [Success Quote Daily Motivation](https://play.google.com/store/search?q=Success%20Quote%20Daily%20Motivation&c=apps)
+- [Tamil Keyboard (Bharat)](https://play.google.com/store/apps/details?id=tamil.keyboard.tamil.stickers.app) — Bharat Keyboards
+- [Tamil Status 2025](https://play.google.com/store/apps/details?id=com.statuswala.tamilstatus) — Status Wala
+- [Telugu Status 2025](https://play.google.com/store/apps/details?id=com.statuswala.telugustatus) — Status Wala
+- [The Daily Jagran](https://play.google.com/store/search?q=The%20Daily%20Jagran&c=apps) — Jagran Prakashan
+- [The Hindu: India & World News](https://play.google.com/store/search?q=The%20Hindu%3A%20India%20%26%20World%20News&c=apps) — THG Publishing
+- [The Lallantop - Hindi News App](https://play.google.com/store/search?q=The%20Lallantop%20-%20Hindi%20News%20App&c=apps) — The Lallantop
+- [TOI English News, Daily ePaper](https://play.google.com/store/search?q=TOI%20English%20News%2C%20Daily%20ePaper&c=apps) — Times Internet
+- [TV9 Bharatvarsh](https://play.google.com/store/search?q=TV9%20Bharatvarsh&c=apps) — TV9 Network
+- [TV9 News App: LIVE TV & News](https://play.google.com/store/search?q=TV9%20News%20App%3A%20LIVE%20TV%20%26%20News&c=apps) — TV9 Network
+- [Vahan Sarathi](https://play.google.com/store/apps/details?id=com.mahidharo.vahansarathi) — Mahidharo Tech Private Limited
+- [Vahan Wale:Buy &amp; Sell Vehicles](https://play.google.com/store/apps/details?id=com.cydencesoftwares.vahanwale) — Mahidharo Tech Private Limited
+- [Vani - Visual Collaboration](https://play.google.com/store/apps/details?id=com.zoho.vani.app) — Zoho Corporation
+- [Varta Keyboard](https://play.google.com/store/search?q=Varta%20Keyboard&c=apps)
+- [Veera: Browser With Adblock](https://play.google.com/store/apps/details?id=com.veera.browser) — Veera Browser
+- [Vinay Bajrangi Karma Astro App](https://play.google.com/store/search?q=Vinay%20Bajrangi%20Karma%20Astro%20App&c=apps)
+- [WordCloud AI](https://play.google.com/store/apps/details?id=com.vikrams.wordcloud) — VR  Labs
+- [WPL](https://play.google.com/store/apps/details?id=com.wplt20.app) — Board of Control for Cricket in India (BCCI)
+- [Zee News: Live News in Hindi](https://play.google.com/store/search?q=Zee%20News%3A%20Live%20News%20in%20Hindi&c=apps) — Zee Media
+- [खाटू श्यामजी | Khatu Shyam APP](https://play.google.com/store/apps/details?id=com.bhaktimusic.khatushyam) — ViaNet Bhakti
+- [भक्ति संग्रह - स्टेटस &amp; आरती](https://play.google.com/store/apps/details?id=com.ottodna.bhaktisangrah) — ottodna
+
+## EdTech & Learning
+
+_149 apps_
+
+- [Aakash](https://play.google.com/store/search?q=Aakash&c=apps) — Aakash Educational Services
+- [Aakash App for JEE &amp; NEET](https://play.google.com/store/apps/details?id=com.byjus.aakash.thelearningapp) — Toppr
+- [Ace Fluency: English Speaking](https://play.google.com/store/apps/details?id=com.oooeng) — Acefluency
+- [Adda247](https://play.google.com/store/search?q=Adda247&c=apps)
+- [Adda247 Govt Job Exam Prep](https://play.google.com/store/apps/details?id=com.adda247.app) — Adda247
+- [Amazing Facts in English](https://play.google.com/store/search?q=Amazing%20Facts%20in%20English&c=apps)
+- [Amazing Facts in Hindi](https://play.google.com/store/search?q=Amazing%20Facts%20in%20Hindi&c=apps)
+- [Anuvadan Hindi Dictionary](https://play.google.com/store/search?q=Anuvadan%20Hindi%20Dictionary&c=apps)
+- [Arivu: Short Learning Videos](https://play.google.com/store/search?q=Arivu%3A%20Short%20Learning%20Videos&c=apps)
+- [Brainly India](https://play.google.com/store/search?q=Brainly+India&c=apps)
+- [Buddy4Study - Scholarship App](https://play.google.com/store/apps/details?id=com.budy4study.ui) — Smiling Star Advisory Private Limited
+- [BYJU&#39;S – The Learning App](https://play.google.com/store/apps/details?id=com.byjus.thelearningapp) — Toppr
+- [Byju's](https://play.google.com/store/search?q=Byju%27s&c=apps) — BYJU'S
+- [Careerwill App](https://play.google.com/store/apps/details?id=com.careerwill.careerwillapp) — Careerwill
+- [ChaiCode](https://play.google.com/store/apps/details?id=com.chaicode.courses) — Hitesh Choudhary
+- [Clapingo: Learn Spoken English](https://play.google.com/store/search?q=Clapingo%3A%20Learn%20Spoken%20English&c=apps) — Clapingo
+- [Classplus](https://play.google.com/store/search?q=Classplus&c=apps)
+- [Cuemath](https://play.google.com/store/search?q=Cuemath&c=apps)
+- [DIKSHA](https://play.google.com/store/search?q=DIKSHA&c=apps) — NCERT / MeitY · [Gov.in](https://apps.gov.in/app-info/1918)
+- [DIKSHA - for School Education](https://play.google.com/store/apps/details?id=in.gov.diksha.app) — NCERT
+- [Disprz](https://play.google.com/store/apps/details?id=com.disprz) — Disprz
+- [DocTutorials-NEET PG, SS, FMGE](https://play.google.com/store/apps/details?id=in.dgist.doctutorials) — DocTutorials
+- [Doubtnut](https://play.google.com/store/search?q=Doubtnut&c=apps)
+- [EdShala](https://play.google.com/store/apps/details?id=com.edshala.app) — edshala
+- [EduRev Exam Preparation App](https://play.google.com/store/apps/details?id=com.edurev) — EduRev
+- [eMedicoz](https://play.google.com/store/apps/details?id=com.emedicoz.app) — DAMS
+- [English Conversation Practice](https://play.google.com/store/apps/details?id=com.audiobook.englishconversationaudio.english.conversation.practice.learning.speaking.app) — E Learning Education
+- [English Grammar Book](https://play.google.com/store/search?q=English%20Grammar%20Book&c=apps)
+- [ENGLISH GRAMMAR IN HINDI](https://play.google.com/store/search?q=ENGLISH%20GRAMMAR%20IN%20HINDI&c=apps)
+- [ENGLISH GRAMMAR IN HINDI (2)](https://play.google.com/store/search?q=ENGLISH%20GRAMMAR%20IN%20HINDI%20%282%29&c=apps)
+- [English Hindi Dictionary](https://play.google.com/store/search?q=English%20Hindi%20Dictionary&c=apps)
+- [ENGLISH HINDI VOCABULARY](https://play.google.com/store/search?q=ENGLISH%20HINDI%20VOCABULARY&c=apps)
+- [English Seekho](https://play.google.com/store/apps/details?id=com.bharatram.englishseekho) — EnglishSeekho
+- [English Seekho : Learning App](https://play.google.com/store/search?q=English%20Seekho%20%3A%20Learning%20App&c=apps)
+- [English Seekho : Speaking App](https://play.google.com/store/apps/details?id=com.bolo.android) — Seekho App
+- [English sikhane wala app 2024](https://play.google.com/store/search?q=English%20sikhane%20wala%20app%202024&c=apps)
+- [English sikhane wala app 2026](https://play.google.com/store/apps/details?id=com.englishtohindi.book.englishsikhanewalaapp.tensebook.englishgrammar.englishspeakingapp.hinditoenglish) — E Learning Education
+- [ENGO AI: Speak &amp; Learn English](https://play.google.com/store/apps/details?id=com.palmdev.expressenglish) — PALMX APPS LTD
+- [ePathshala](https://play.google.com/store/apps/details?id=in.gov.epathshala) — NCERT · [Gov.in](https://apps.gov.in/app-info/1848)
+- [Exam Preparation: Live Classes](https://play.google.com/store/apps/details?id=co.gradeup.android) — Gradeup
+- [Exam Quest - Practice tests](https://play.google.com/store/apps/details?id=com.vikrams.examquest) — VR  Labs
+- [Exampur](https://play.google.com/store/search?q=Exampur&c=apps)
+- [Extramarks – The Learning App](https://play.google.com/store/apps/details?id=com.Extramarks.Smartstudy) — Extramarks Education
+- [Extramarks-Online Teaching App](https://play.google.com/store/apps/details?id=com.extramarks.teacherapp) — Extramarks Education
+- [Fast English Speaking Course](https://play.google.com/store/apps/details?id=com.english.speaking.course30days.englishspeakingapp2021.englishspeaking.talkenglish.practice) — E Learning Education
+- [GeeksforGeeks](https://play.google.com/store/search?q=GeeksforGeeks&c=apps)
+- [Great Learning: Online Courses](https://play.google.com/store/apps/details?id=com.lms.greatlakes) — Great Learning
+- [greytHR Academy](https://play.google.com/store/apps/details?id=com.greythr.academy) — Greytip Software
+- [Gyaan-E by PW: Learning Videos](https://play.google.com/store/search?q=Gyaan-E%20by%20PW%3A%20Learning%20Videos&c=apps) — Physics Wallah
+- [GyanTV: Short Learning Videos](https://play.google.com/store/apps/details?id=com.behtar.gyantv) — Gyani - Made in India for India
+- [Hello English: Learn English](https://play.google.com/store/apps/details?id=com.dks.helloenglish) — Culture Alley
+- [Hindi English Word Meaning App](https://play.google.com/store/search?q=Hindi%20English%20Word%20Meaning%20App&c=apps)
+- [Hindi Kavita (हिंदी कवितायें)](https://play.google.com/store/search?q=Hindi%20Kavita%20%28%E0%A4%B9%E0%A4%BF%E0%A4%82%E0%A4%A6%E0%A5%80%20%E0%A4%95%E0%A4%B5%E0%A4%BF%E0%A4%A4%E0%A4%BE%E0%A4%AF%E0%A5%87%E0%A4%82%29&c=apps)
+- [Homework Help App | Scan Quest](https://play.google.com/store/apps/details?id=com.toppr.toppr_ask) — Toppr
+- [India Translator Dictionary](https://play.google.com/store/search?q=India%20Translator%20Dictionary&c=apps)
+- [InterviewBit / Scaler](https://play.google.com/store/search?q=InterviewBit+%2F+Scaler&c=apps)
+- [Jagran Josh](https://play.google.com/store/apps/details?id=com.josh.jagran.android.activity.snaukri) — Jagran Prakashan Limited
+- [JoshTalks English Speaking App](https://play.google.com/store/apps/details?id=com.joshtalks.joshskills) — JoshTalks
+- [KHAN GLOBAL STUDIES](https://play.google.com/store/apps/details?id=xyz.penpencil.khansirofficial) — Khan Sir
+- [KopyKitab](https://play.google.com/store/search?q=KopyKitab&c=apps)
+- [Kukufm Learning](https://play.google.com/store/search?q=Kukufm+Learning&c=apps)
+- [Kutuki Kids App](https://play.google.com/store/apps/details?id=com.soniqmantra.kutuki) — Kutuki
+- [Language Curry: Learn Language](https://play.google.com/store/search?q=Language%20Curry%3A%20Learn%20Language&c=apps)
+- [LEAD School](https://play.google.com/store/search?q=LEAD+School&c=apps)
+- [Learn Bengali From Hindi](https://play.google.com/store/apps/details?id=com.devstudios.learnbanglafromhindi) — Devi Studios
+- [Learn English Fast](https://play.google.com/store/apps/details?id=com.chittoo.chittoo) — Chittoo Tech
+- [Learn English From Hindi (Devi Studios)](https://play.google.com/store/apps/details?id=com.devstudios.learnenglishfromhindi) — Devi Studios
+- [Learn English From Hindi (Runtime Developers)](https://play.google.com/store/apps/details?id=com.runtime.englishfromhindi.learnenglish) — Runtime Developers
+- [Learn English From Marathi](https://play.google.com/store/apps/details?id=com.devstudios.learnenglishfrommarathi) — Devi Studios
+- [Learn English with books](https://play.google.com/store/search?q=Learn%20English%20with%20books&c=apps)
+- [Learn Gujarati From Hindi](https://play.google.com/store/apps/details?id=com.devstudios.learngujaratifromhindi) — Devi Studios
+- [Learn Gujarati Language App](https://play.google.com/store/search?q=Learn%20Gujarati%20Language%20App&c=apps)
+- [Learn Kannada From Hindi](https://play.google.com/store/apps/details?id=com.devstudios.learnkannadafromhindi) — Devi Studios
+- [Learn Languages - Multibhashi](https://play.google.com/store/apps/details?id=com.multibhashi.app) — Multibhashi
+- [Learn Malayalam From Hindi](https://play.google.com/store/apps/details?id=com.devstudios.learnmalayalamfromhindi) — Devi Studios
+- [Learn Malayalam Language App](https://play.google.com/store/search?q=Learn%20Malayalam%20Language%20App&c=apps)
+- [Learn Marathi From Hindi](https://play.google.com/store/apps/details?id=com.devstudios.learnmarathifromhindi) — Devi Studios
+- [Learn Odia From Hindi](https://play.google.com/store/apps/details?id=com.devstudios.learnodiafromhindi) — Devi Studios
+- [Learn Oriya Language Offline](https://play.google.com/store/search?q=Learn%20Oriya%20Language%20Offline&c=apps)
+- [Learn Punjabi From Hindi](https://play.google.com/store/apps/details?id=com.devstudios.learnpunjabifromhindi) — Devi Studios
+- [Learn Sanskrit From Hindi](https://play.google.com/store/apps/details?id=com.devstudios.learnsanskritfromhindi) — Devi Studios
+- [Learn Sanskrit Language App](https://play.google.com/store/search?q=Learn%20Sanskrit%20Language%20App&c=apps)
+- [Learn Spanish From Hindi](https://play.google.com/store/apps/details?id=com.devstudios.learnspanishfromhindi) — Devi Studios
+- [Learn Tamil From Hindi](https://play.google.com/store/apps/details?id=com.devstudios.learntamilfromhindi) — Devi Studios
+- [Learn Telugu From Hindi](https://play.google.com/store/apps/details?id=com.devstudios.learntelugufromhindi) — Devi Studios
+- [Learn Telugu Language Offline](https://play.google.com/store/search?q=Learn%20Telugu%20Language%20Offline&c=apps)
+- [LKG Learning App All Subjects](https://play.google.com/store/apps/details?id=com.edurev.lkg) — EduRev: Learning, Mock Test \u0026 Exam Preparation App
+- [MagTapp - AI Visual Browser](https://play.google.com/store/apps/details?id=com.olm.magtapp) — MagTapp - A \u0027Made in india\u0027 innovation
+- [Maharashtra Academy](https://play.google.com/store/apps/details?id=com.maharashtra.academy.pune.app) — appx.co.in
+- [MARKS: IIT JEE & NEET Prep App](https://play.google.com/store/search?q=MARKS%3A%20IIT%20JEE%20%26%20NEET%20Prep%20App&c=apps)
+- [MARKS: IIT JEE &amp; NEET Prep App](https://play.google.com/store/apps/details?id=com.scoremarks.marks) — MARKS App
+- [Masai School](https://play.google.com/store/search?q=Masai+School&c=apps)
+- [MasterJi: Learn & Code](https://play.google.com/store/apps/details?id=com.chaicode.masterji) — Hitesh Choudhary
+- [MySivi AI English Speaking App](https://play.google.com/store/apps/details?id=com.practice.ninja_study) — MySivi AI
+- [NCERT Book, Solution,SelfStudy](https://play.google.com/store/apps/details?id=selfstudys.com) — SelfStudys
+- [Nerchuko: Short Learning App](https://play.google.com/store/search?q=Nerchuko%3A%20Short%20Learning%20App&c=apps)
+- [Physics Wallah](https://play.google.com/store/search?q=Physics%20Wallah&c=apps)
+- [Physics Wallah (PW)](https://play.google.com/store/search?q=Physics+Wallah+%28PW%29&c=apps)
+- [Practice English Speaking Talk](https://play.google.com/store/apps/details?id=com.app.appoaholic.speakenglish) — Bright Pixel Solutions Pvt Ltd.
+- [Prepp: Sarkari Exam Prep App](https://play.google.com/store/apps/details?id=com.prepp) — Collegedunia Web Private Limited
+- [PW - India&#39;s Learning Platform](https://play.google.com/store/apps/details?id=xyz.penpencil.physicswala) — Physicswallah
+- [PW Books NCERT Books Solutions](https://play.google.com/store/apps/details?id=ai.ncert.physicswala) — Physicswallah
+- [PW Books: NCERT Books, Soln](https://play.google.com/store/search?q=PW%20Books%3A%20NCERT%20Books%2C%20Soln&c=apps) — Physics Wallah
+- [PW CuriousJr: Class 1st - 10th](https://play.google.com/store/search?q=PW%20CuriousJr%3A%20Class%201st%20-%2010th&c=apps) — Physics Wallah
+- [PW CuriousJr: Class 1st - 8th](https://play.google.com/store/apps/details?id=com.curiousjr) — CuriousJr by PhysicsWallah
+- [PW Gyaan-E : Micro-Courses](https://play.google.com/store/apps/details?id=xyz.penpencil.gyaane) — Physicswallah
+- [PW Talk: English Speaking App](https://play.google.com/store/apps/details?id=com.pw.pwtalk) — Physics Wallah
+- [Rashtriya e-Pustakalaya](https://play.google.com/store/search?q=Rashtriya%20e-Pustakalaya&c=apps) — NCERT
+- [Reevo: Learn to Speak English](https://play.google.com/store/apps/details?id=com.addaeducation.reevo) — Adda247
+- [Rojgar With Ankit (RWA)](https://play.google.com/store/apps/details?id=com.appx.rojgar_with_ankit) — Rojgar with Ankit
+- [Sanskrit](https://play.google.com/store/apps/details?id=com.vedaant.sanskritlearner) — Vedaant Nandha
+- [Sanskrit - Hindi Translator](https://play.google.com/store/search?q=Sanskrit%20-%20Hindi%20Translator&c=apps)
+- [Sanskrit for Kids](https://play.google.com/store/apps/details?id=com.shrushti.sanskritforkidskotlin) — Shrushti Nagar
+- [Sanskrit Learning Guide](https://play.google.com/store/apps/details?id=com.sanskrit.learning.famehg) — Fame App
+- [Seekho](https://play.google.com/store/search?q=Seekho&c=apps)
+- [Seekho Jr: Learning Videos](https://play.google.com/store/apps/details?id=com.seekhojunior.android) — Seekho App
+- [Seekho: Short Learning Videos](https://play.google.com/store/apps/details?id=com.seekho.android) — Seekho App
+- [Shaalaa: The Study App](https://play.google.com/store/apps/details?id=com.shaalaa.app) — shaalaa.com
+- [Simplilearn](https://play.google.com/store/search?q=Simplilearn&c=apps)
+- [Sparky AI English Speaking App](https://play.google.com/store/apps/details?id=com.spark_native_app) — Sparky AI
+- [Sparky AI: Speak English Well](https://play.google.com/store/search?q=Sparky%20AI%3A%20Speak%20English%20Well&c=apps)
+- [Speak English with Chittoo AI](https://play.google.com/store/search?q=Speak%20English%20with%20Chittoo%20AI&c=apps)
+- [SpeakX AI Learn Spoken English](https://play.google.com/store/apps/details?id=yellowclass.kids.live) — SpeakX.ai
+- [speakX: Learn to Speak English](https://play.google.com/store/search?q=speakX%3A%20Learn%20to%20Speak%20English&c=apps) — speakX
+- [Spoken English Guru](https://play.google.com/store/search?q=Spoken%20English%20Guru&c=apps)
+- [Sri Sri School of Yoga](https://play.google.com/store/apps/details?id=com.srisriyoga.courses) — Sumeru Technology Solutions Pvt Ltd
+- [Stimuler AI: English Fluency](https://play.google.com/store/apps/details?id=com.stimuler) — Stimuler
+- [Studox: Groups &amp; Study Toolkit](https://play.google.com/store/apps/details?id=com.dashtech.campustoolkit) — DASHTECH
+- [Studyadda - The Study App](https://play.google.com/store/search?q=Studyadda%20-%20The%20Study%20App&c=apps)
+- [Supernova AI Spoken English](https://play.google.com/store/apps/details?id=live.gosupernova.app) — 24/7 Personal AI Tutor
+- [Teachmint](https://play.google.com/store/search?q=Teachmint&c=apps)
+- [Testbook](https://play.google.com/store/search?q=Testbook&c=apps)
+- [Testbook: Exam Preparation App](https://play.google.com/store/apps/details?id=com.testbook.tbapp) — Testbook: Exam Prep App
+- [The Learning App | By ASSEB](https://play.google.com/store/apps/details?id=com.seba.seba_spoken_english) — Assam State School Education Board
+- [Toppr](https://play.google.com/store/search?q=Toppr&c=apps) — Toppr
+- [Toprankers](https://play.google.com/store/apps/details?id=com.TopRankers.trapp) — Toprankers EdTech Solutions
+- [Tree Campus - English Speaking](https://play.google.com/store/apps/details?id=com.academy.tree_campus) — Tree Campus Academy Foundation
+- [Unacademy](https://play.google.com/store/apps/details?id=com.unacademyapp)
+- [Unacademy Educator App](https://play.google.com/store/apps/details?id=com.unacademy) — Unacademy
+- [UnacademyX: Quick Exam Prep](https://play.google.com/store/apps/details?id=com.unacademy.projecteden) — Unacademy
+- [UpGrad](https://play.google.com/store/search?q=UpGrad&c=apps)
+- [UPSC IAS Syllabus Preparation](https://play.google.com/store/apps/details?id=com.edurev.upsc) — EduRev: Learning, Mock Test \u0026 Exam Preparation App
+- [Utkarsh: Govt Jobs & Exam Prep](https://play.google.com/store/apps/details?id=com.utkarshnew.android) — Utkarsh Classes & Edutech
+- [Vedantu](https://play.google.com/store/search?q=Vedantu&c=apps)
+- [Vidyakul Online Classes 9-12th](https://play.google.com/store/apps/details?id=com.vidyakul) — Vidyakul
+- [Zinglish- Bolo English](https://play.google.com/store/search?q=Zinglish-%20Bolo%20English&c=apps)
+- [Zinglish: English Speaking App](https://play.google.com/store/apps/details?id=com.capslock.zinglish) — Capslock Market Places Pvt Ltd
+- [जोशTalks English Speaking App](https://play.google.com/store/apps/details?id=com.joshtalks.joshskills_marathi) — JoshTalks
+- [संपूर्ण आरती संग्रह मराठी](https://play.google.com/store/apps/details?id=com.majdeveloper.sasm) — MAJ DEVELOPER
+
+## Social Media, Messaging & Networking
+
+_147 apps_
+
+- [Aicicapp Social](https://play.google.com/store/apps/details?id=com.aicicapp) — Aicic Network Private Limited
+- [AllOpen - India&#39;s Voice](https://play.google.com/store/apps/details?id=com.allopen.mobile) — Allpixel Technologies
+- [AllOpen - India's Voice](https://play.google.com/store/search?q=AllOpen%20-%20India%27s%20Voice&c=apps)
+- [Anuvadini Connect](https://play.google.com/store/apps/details?id=com.anuvadini.connect.app) — ANUVADINI AI
+- [Arattai](https://play.google.com/store/search?q=Arattai&c=apps)
+- [Arattai Business](https://play.google.com/store/apps/details?id=com.arattai.business) — Arattai Technology Solutions
+- [Arattai Messenger](https://play.google.com/store/apps/details?id=com.aratai.chat) — Arattai Technology Solutions
+- [Art of Living Matrimony](https://play.google.com/store/apps/details?id=com.artofliving.matrimony) — Sumeru Technology Solutions Pvt Ltd
+- [BakBak India – Connect Nearby](https://play.google.com/store/apps/details?id=com.bedesi.bakbak) — BeDesi Tech
+- [Bandhoo - Connect with India](https://play.google.com/store/apps/details?id=xyz.lifeissimple.hibuddy) — Bandhoo Technology Pvt Ltd
+- [Bharat Browser: Fast &amp; Private](https://play.google.com/store/apps/details?id=com.dashtech.bharatbrowser) — DASHTECH
+- [Bharat Page](https://play.google.com/store/apps/details?id=com.bharatpage.social) — Bharat Page Social Media
+- [BharatCaller](https://play.google.com/store/apps/details?id=com.bharatcallerapp.callerid)
+- [BharatChat: Indian Messenger](https://play.google.com/store/apps/details?id=co.bharatchat.bharatchat) — Seruces Information Technology Private Limited.
+- [Bihar Lokal Matrimony](https://play.google.com/store/apps/details?id=get.lokal.biharmatrimony) — Lokal - AI enabled products for Bharat
+- [BlueEra-Bharatiya Super App](https://play.google.com/store/search?q=BlueEra-Bharatiya%20Super%20App&c=apps) — BlueEra
+- [BlueEra-Indian SocialMedia App](https://play.google.com/store/search?q=BlueEra-Indian%20SocialMedia%20App&c=apps) — BlueEra
+- [BlueEra: Business &amp; SuperApp](https://play.google.com/store/apps/details?id=ai.bluecs.app) — BlueEra Super App
+- [BoliGram: Reels & Videos](https://play.google.com/store/search?q=BoliGram%3A%20Reels%20%26%20Videos&c=apps)
+- [BoliGram: Reels &amp; Videos](https://play.google.com/store/apps/details?id=com.boligram.lmt) — lookmetech
+- [Bolo India-Indian Social Media](https://play.google.com/store/apps/details?id=com.bolo.india) — Bolo-India Media Networks Pvt Ld
+- [Chalkpad](https://play.google.com/store/search?q=Chalkpad&c=apps)
+- [Chatwoot](https://play.google.com/store/search?q=Chatwoot&c=apps)
+- [Chingari](https://play.google.com/store/search?q=Chingari&c=apps)
+- [Clap Messenger](https://play.google.com/store/apps/details?id=com.tvisha.clapmessenger) — TVISHA
+- [Connect Now - Friends Chat](https://play.google.com/store/apps/details?id=com.myfirstdate) — SM Software Solutions
+- [Contact – Phone Dialer](https://play.google.com/store/apps/details?id=contacts.smart.phonedialer) — Calendar 2026 Agenda
+- [Crafto](https://play.google.com/store/search?q=Crafto&c=apps)
+- [Dome - India ka Messaging app!](https://play.google.com/store/apps/details?id=com.intouch.communication) — Volare Technologies Pvt. Ltd. (InTouchApp)
+- [Dostt: Talk & Feel Better](https://play.google.com/store/search?q=Dostt%3A%20Talk%20%26%20Feel%20Better&c=apps)
+- [Election Watch 2024](https://play.google.com/store/apps/details?id=com.vikrams.electionwatch) — VR  Labs
+- [EloElo](https://play.google.com/store/search?q=EloElo&c=apps)
+- [Elyments](https://play.google.com/store/search?q=Elyments&c=apps) — Elyments
+- [Elyments - Private chat & calls](https://play.google.com/store/apps/details?id=in.elyments.mobile) — Sumeru Software Solutions Pvt Ltd
+- [Equal AI - Call Assistant](https://play.google.com/store/apps/details?id=in.equal.ai.assistant) — Equal Identity
+- [Exotel](https://play.google.com/store/search?q=Exotel&c=apps)
+- [Explurger: Travel Social Media](https://play.google.com/store/apps/details?id=com.explurgerapp) — Explurger
+- [Filmhook](https://play.google.com/store/apps/details?id=com.filmhookapps) — FILM-HOOK MEDIAAPPS PRIVATE LIMITED security
+- [Finixapp - Make New Friends](https://play.google.com/store/apps/details?id=finix.social.finixapp) — Finixapp
+- [FlickPost: Indian Social Media](https://play.google.com/store/apps/details?id=com.flickpost) — FluxGenic Pvt Ltd.
+- [FotoAI Emoji &amp; Fonts Keyboard](https://play.google.com/store/apps/details?id=com.foto.ai.keyboard) — Galaxy studio apps
+- [Foxcolab - Secure Messenger](https://play.google.com/store/apps/details?id=com.foxcolab.app) — Foxcolab Technologies
+- [Frnd](https://play.google.com/store/search?q=Frnd&c=apps)
+- [G&#39;Day Talk](https://play.google.com/store/apps/details?id=com.gdaytalk) — Nexever Private Limited
+- [Gaongram](https://play.google.com/store/apps/details?id=com.gaon.gaongram) — Gaongram
+- [GaonGram lite](https://play.google.com/store/apps/details?id=gaon.gram.gaongram) — Gaongram
+- [Glimpses: Social Network](https://play.google.com/store/apps/details?id=app.glimpses) — Creatoors Tech Private Limited
+- [GQQ Secure Messenger](https://play.google.com/store/apps/details?id=in.gqq.chat) — Navika InfoTech
+- [Guddy](https://play.google.com/store/apps/details?id=com.gudiya.guddy) — Abhi Call
+- [Gujarati Lokal Matrimony](https://play.google.com/store/apps/details?id=get.lokal.gujaratmatrimony) — Lokal - AI enabled products for Bharat
+- [Hind Social](https://play.google.com/store/apps/details?id=in.com.hindsocial) — Hind Social
+- [HUGE](https://play.google.com/store/apps/details?id=com.hugefoundations.app) — Medhya Digital
+- [Hyped Free Calls,Chats & Games](https://play.google.com/store/search?q=Hyped%20Free%20Calls%2CChats%20%26%20Games&c=apps)
+- [Hyped Free Calls,Chats &amp; Games](https://play.google.com/store/apps/details?id=com.friendsV) — ANUVADINI AI
+- [Identityy: Indian Social Media](https://play.google.com/store/apps/details?id=com.i.treefe) — Treefe
+- [Inbook: Indian Social Media](https://play.google.com/store/search?q=Inbook%3A%20Indian%20Social%20Media&c=apps)
+- [Inbox Private Messenger](https://play.google.com/store/apps/details?id=com.yearlater.inboxmessenger) — Yearlater (P) Limited
+- [Indi Browser](https://play.google.com/store/apps/details?id=com.gurry.kvbrowser) — Indi Browser
+- [Indian Browser: Fast &amp; Secure](https://play.google.com/store/apps/details?id=tech.akhilesh.indianbrowser) — Akhilesh_tech.
+- [JioCall](https://play.google.com/store/apps/details?id=com.jio.join)
+- [JioChat](https://play.google.com/store/search?q=JioChat&c=apps) — Jio Platforms
+- [JioChat Messenger &amp; Video Call](https://play.google.com/store/apps/details?id=com.jiochat.jiochatapp) — Jio Platforms Limited
+- [JioFieldDiagnostics](https://play.google.com/store/search?q=JioFieldDiagnostics&c=apps) — Jio Platforms
+- [JioGate](https://play.google.com/store/search?q=JioGate&c=apps) — Jio Platforms
+- [JioJoin - Fiber Calls](https://play.google.com/store/apps/details?id=com.jio.jse) — Jio Platforms Limited
+- [JioMessages](https://play.google.com/store/apps/details?id=com.jio.messageslite)
+- [JioSafe](https://play.google.com/store/apps/details?id=com.jiosafe) — Jio Platforms
+- [JioSandesh](https://play.google.com/store/search?q=JioSandesh&c=apps) — Jio Platforms
+- [JioSecure](https://play.google.com/store/search?q=JioSecure&c=apps) — Jio Platforms
+- [JioSecure Elite](https://play.google.com/store/search?q=JioSecure%20Elite&c=apps) — Jio Platforms
+- [JioShield](https://play.google.com/store/search?q=JioShield&c=apps) — Jio Platforms
+- [JioSphere: Web Browser](https://play.google.com/store/apps/details?id=com.jio.web) — Jio Platforms Limited
+- [Josh](https://play.google.com/store/search?q=Josh&c=apps)
+- [Kannada Lokal Matrimony](https://play.google.com/store/apps/details?id=get.lokal.kannadamatrimony) — Lokal - AI enabled products for Bharat
+- [Kisan Jagat](https://play.google.com/store/apps/details?id=com.kisanjagat.www) — Mahidharo Tech Private Limited
+- [Koo](https://play.google.com/store/search?q=Koo&c=apps)
+- [Kutumb](https://play.google.com/store/search?q=Kutumb&c=apps) — Kutumb
+- [Kutumb App - Community App](https://play.google.com/store/apps/details?id=com.kutumb.android) — Kutumb App
+- [Lido](https://play.google.com/store/search?q=Lido&c=apps)
+- [Loco](https://play.google.com/store/search?q=Loco&c=apps)
+- [Lokal Matrimony: For Bharat](https://play.google.com/store/apps/details?id=get.lokal.lokalmatrimony) — Lokal - AI enabled products for Bharat
+- [Marathi Lokal Matrimony](https://play.google.com/store/apps/details?id=get.lokal.maharashtramatrimony) — Lokal - AI enabled products for Bharat
+- [MaxVot Social Media](https://play.google.com/store/apps/details?id=com.mgnapps.maxvot) — MgnApps
+- [Me Browser](https://play.google.com/store/apps/details?id=com.mebrowser.webapp) — MeBrowser Team.
+- [Meet - Dating & Relationship](https://play.google.com/store/search?q=Meet%20-%20Dating%20%26%20Relationship&c=apps)
+- [MemeChat](https://play.google.com/store/search?q=MemeChat&c=apps)
+- [MemeChat (Speckit)](https://play.google.com/store/apps/details?id=sisinc.com.sis) — MemeChat
+- [Memoria: Social Memory](https://play.google.com/store/apps/details?id=com.memoria.social) — Krishna Varma (KV)
+- [Messages: SMS &amp; Chat App](https://play.google.com/store/apps/details?id=com.audify.messenger) — Audify Player.
+- [Metubez](https://play.google.com/store/apps/details?id=com.metubez) — Twenties Entertainment Private Limited
+- [Moj](https://play.google.com/store/apps/details?id=in.mohalla.video)
+- [MouthShut.com](https://play.google.com/store/apps/details?id=com.mouthshut) — MOUTHSHUT.COM (INDIA) PRIVATE LIMITED mouthshut.official
+- [MSG91](https://play.google.com/store/search?q=MSG91&c=apps)
+- [MyChatClub: Social Platform](https://play.google.com/store/apps/details?id=com.mychatclub.mcc) — SM Software Solutions
+- [Naam](https://play.google.com/store/apps/details?id=ai.naam.android.app)
+- [Namaste Indian](https://play.google.com/store/apps/details?id=com.namasteindia.app) — NARAYANA REDDY N
+- [Naritya - Create. Share. Earn.](https://play.google.com/store/apps/details?id=com.suffescom.nritya) — Naritya
+- [Netos Browser Lite](https://play.google.com/store/apps/details?id=uk.redcode.netosbrowser) — The RedCode
+- [NexMessenger](https://play.google.com/store/apps/details?id=com.nexevertalk) — Nexever Private Limited
+- [Ninja Private Messenger](https://play.google.com/store/apps/details?id=com.ninja.privatemessenger) — NEXEVER PRIVATE LIMITED contact
+- [Nyburs](https://play.google.com/store/search?q=Nyburs&c=apps)
+- [Nyburs: Hyperlocal Social App](https://play.google.com/store/apps/details?id=com.nyburs.app) — Nyburs
+- [Omni Browser (Early access)](https://play.google.com/store/apps/details?id=com.rebelroot.omni) — REBELROOT
+- [Overall](https://play.google.com/store/apps/details?id=com.overallsite.app) — Powerful Creations IN
+- [Panchit – Indian Social App](https://play.google.com/store/apps/details?id=com.panchit.www) — Mahidharo Tech Private Limited
+- [Pepul](https://play.google.com/store/search?q=Pepul&c=apps) — Pepul
+- [Pepul-Social Network app](https://play.google.com/store/apps/details?id=com.pepul.socialnetworking) — Pepul Tech Private Limited
+- [Phone](https://play.google.com/store/apps/details?id=com.Phone_Call_Dialer) — Smart Phone Call App
+- [Public](https://play.google.com/store/search?q=Public&c=apps)
+- [Puch AI](https://play.google.com/store/search?q=Puch+AI&c=apps) — Puch AI
+- [Qmamu Browser &amp; Search Engine](https://play.google.com/store/apps/details?id=com.qmamu.browser) — Qmamu
+- [Rippl](https://play.google.com/store/apps/details?id=space.rippl.app) — Appx Tech
+- [Rooter](https://play.google.com/store/search?q=Rooter&c=apps)
+- [Roposo](https://play.google.com/store/search?q=Roposo&c=apps)
+- [Samvad](https://play.google.com/store/apps/details?id=com.cdot.chat) — CENTRE FOR DEVELOPMENT OF TELEMATICS rahulm · [Gov.in](https://apps.gov.in/app-info/2971)
+- [Samvad : Simple Business Chat](https://play.google.com/store/apps/details?id=com.offerplant.app) — DIGITAL SEAL digitalsealorg
+- [Sandes](https://play.google.com/store/apps/details?id=in.nic.gimkerala) — NIC / MeitY · [Gov.in](https://apps.gov.in/app-info/2994)
+- [Say Namaste](https://play.google.com/store/search?q=Say%20Namaste&c=apps)
+- [SAYUJ](https://play.google.com/store/apps/details?id=com.sayuj) — Software Technology Parks of India
+- [ShareChat](https://play.google.com/store/apps/details?id=in.mohalla.sharechat)
+- [Snivo Messenger](https://play.google.com/store/apps/details?id=com.snivogram.messenger) — meljool
+- [Snivogram](https://play.google.com/store/apps/details?id=com.anonymous.snivogrammobile) — meljool
+- [socialIND](https://play.google.com/store/apps/details?id=com.socialind.android) — Amender Technologies
+- [Society Guard](https://play.google.com/store/search?q=Society%20Guard&c=apps) — Jio Platforms
+- [Soovian-Indian Social Network](https://play.google.com/store/apps/details?id=com.soovian.app) — Your World. Your People.
+- [Speak India: Made In India](https://play.google.com/store/search?q=Speak%20India%3A%20Made%20In%20India&c=apps)
+- [Stage](https://play.google.com/store/search?q=Stage&c=apps)
+- [StarFomo: Reels &amp; Social Media](https://play.google.com/store/apps/details?id=com.starfomo.socialapp) — USRM NETWORK
+- [Tamil Lokal Matrimony App](https://play.google.com/store/apps/details?id=get.lokal.tamilmatrimony) — Lokal - AI enabled products for Bharat
+- [Telugu Lokal Matrimony App](https://play.google.com/store/apps/details?id=get.lokal.telugumatrimony) — Lokal - AI enabled products for Bharat
+- [Tepnot](https://play.google.com/store/search?q=Tepnot&c=apps) — Tepnot Technologies (Surat)
+- [Tepnot Live- Go LIVE &amp; Connect](https://play.google.com/store/apps/details?id=com.tepnot.tepnot) — Tepnot Technologies Private Limited
+- [Tooter](https://play.google.com/store/apps/details?id=in.tooter.app) — Tooter Pvt Ltd
+- [Trusted Caller ID , Call &amp; SMS](https://play.google.com/store/apps/details?id=com.callerid.dialer.contacts.call) — Apps Specials
+- [Tubble](https://play.google.com/store/apps/details?id=com.spyxpo.tubble) — SPYXPO TECHNOLOGIES PRIVATE LIMITED
+- [Turnip](https://play.google.com/store/search?q=Turnip&c=apps)
+- [Uttar Pradesh Lokal Matrimony](https://play.google.com/store/apps/details?id=get.lokal.uttarpradeshmatrimony) — Lokal - AI enabled products for Bharat
+- [Vichaar: Speak Your Mind](https://play.google.com/store/apps/details?id=com.pmg.interactify) — PMG ENGINEERING PRIVATE LIMITED abhinav.pandey
+- [Video Meeting - Meetly](https://play.google.com/store/apps/details?id=aculix.meetly.app) — Aculix Technologies LLP
+- [VideoMeet](https://play.google.com/store/search?q=VideoMeet&c=apps)
+- [Voot Social](https://play.google.com/store/search?q=Voot+Social&c=apps)
+- [Vync](https://play.google.com/store/apps/details?id=live.vync) — Zynclave Tech Private Limited
+- [WinZO](https://play.google.com/store/search?q=WinZO&c=apps)
+- [YourQuote — Write, Chat & Earn](https://play.google.com/store/search?q=YourQuote%20%E2%80%94%20Write%2C%20Chat%20%26%20Earn&c=apps) — YourQuote
+- [YourQuote — Write, Chat &amp; Earn](https://play.google.com/store/apps/details?id=in.yourquote.app) — YQ — Write Stories, Poems, Quotes in 14+ Languages
+- [Zktor](https://play.google.com/store/apps/details?id=fandl.softa.zktor) — SOFTA TECHNOLOGIES LIMITED
+- [Zyber: Social Networking](https://play.google.com/store/apps/details?id=com.zybernow.app) — Zyber Networks
+
+## Zoho Apps
+
+_139 apps_
+
+- [Add On: M680](https://play.google.com/store/search?q=Add+On%3A+M680&c=apps) — Zoho Corporation
+- [Add-On : HP](https://play.google.com/store/search?q=Add-On+%3A+HP&c=apps) — Zoho Corporation
+- [Add-On: Archos](https://play.google.com/store/search?q=Add-On%3A+Archos&c=apps) — Zoho Corporation
+- [Add-On: Bluebird EF](https://play.google.com/store/search?q=Add-On%3A+Bluebird+EF&c=apps) — Zoho Corporation
+- [Add-On: Cipherlab](https://play.google.com/store/search?q=Add-On%3A+Cipherlab&c=apps) — Zoho Corporation
+- [Add-On: Cubot](https://play.google.com/store/search?q=Add-On%3A+Cubot&c=apps) — Zoho Corporation
+- [Add-On: Datalogic](https://play.google.com/store/search?q=Add-On%3A+Datalogic&c=apps) — Zoho Corporation
+- [Add-On: Datamini T84G](https://play.google.com/store/search?q=Add-On%3A+Datamini+T84G&c=apps) — Zoho Corporation
+- [Add-On: Datamini TWG10](https://play.google.com/store/search?q=Add-On%3A+Datamini+TWG10&c=apps) — Zoho Corporation
+- [Add-On: Densowave](https://play.google.com/store/search?q=Add-On%3A+Densowave&c=apps) — Zoho Corporation
+- [Add-On: Honeywell_hon](https://play.google.com/store/search?q=Add-On%3A+Honeywell_hon&c=apps) — Zoho Corporation
+- [Add-On: Honeywell_int](https://play.google.com/store/search?q=Add-On%3A+Honeywell_int&c=apps) — Zoho Corporation
+- [Add-On: Honeywell_nextgen](https://play.google.com/store/search?q=Add-On%3A+Honeywell_nextgen&c=apps) — Zoho Corporation
+- [Add-On: Lenovo M10](https://play.google.com/store/search?q=Add-On%3A+Lenovo+M10&c=apps) — Zoho Corporation
+- [Add-On: Lenovo T3](https://play.google.com/store/search?q=Add-On%3A+Lenovo+T3&c=apps) — Zoho Corporation
+- [Add-On: Lenovo T5](https://play.google.com/store/search?q=Add-On%3A+Lenovo+T5&c=apps) — Zoho Corporation
+- [Add-On: Modisoft C1](https://play.google.com/store/search?q=Add-On%3A+Modisoft+C1&c=apps) — Zoho Corporation
+- [Add-On: Point Mobile](https://play.google.com/store/search?q=Add-On%3A+Point+Mobile&c=apps) — Zoho Corporation
+- [Add-On: Samsung](https://play.google.com/store/search?q=Add-On%3A+Samsung&c=apps) — Zoho Corporation
+- [Add-On: Universal](https://play.google.com/store/search?q=Add-On%3A+Universal&c=apps) — Zoho Corporation
+- [Add-On: Urovo](https://play.google.com/store/search?q=Add-On%3A+Urovo&c=apps) — Zoho Corporation
+- [Add-On: Zebra](https://play.google.com/store/search?q=Add-On%3A+Zebra&c=apps) — Zoho Corporation
+- [Authenticator App](https://play.google.com/store/search?q=Authenticator+App&c=apps) — Zoho Corporation
+- [Barcode & QR Code Generator](https://play.google.com/store/search?q=Barcode+%26+QR+Code+Generator&c=apps) — Zoho Corporation
+- [Bigin by Zoho CRM](https://play.google.com/store/search?q=Bigin+by+Zoho+CRM&c=apps) — Zoho Corporation
+- [Card Scanner](https://play.google.com/store/search?q=Card+Scanner&c=apps) — Zoho Corporation
+- [CFO Exchange by Zoho](https://play.google.com/store/search?q=CFO+Exchange+by+Zoho&c=apps) — Zoho Corporation
+- [CloudSpend](https://play.google.com/store/search?q=CloudSpend&c=apps) — Zoho Corporation
+- [EntranZ](https://play.google.com/store/search?q=EntranZ&c=apps) — Zoho Corporation
+- [Family cloud by Zoho](https://play.google.com/store/search?q=Family+cloud+by+Zoho&c=apps) — Zoho Corporation
+- [FieldOps for Healthcare CRM](https://play.google.com/store/search?q=FieldOps+for+Healthcare+CRM&c=apps) — Zoho Corporation
+- [Guided Conversations](https://play.google.com/store/search?q=Guided+Conversations&c=apps) — Zoho Corporation
+- [HomeCare](https://play.google.com/store/search?q=HomeCare&c=apps) — Zoho Corporation
+- [Inventory Stock Tracker](https://play.google.com/store/search?q=Inventory+Stock+Tracker&c=apps) — Zoho Corporation
+- [Medscribe](https://play.google.com/store/search?q=Medscribe&c=apps) — Zoho Corporation
+- [MyZoho](https://play.google.com/store/search?q=MyZoho&c=apps) — Zoho Corporation
+- [OneAuth](https://play.google.com/store/search?q=OneAuth&c=apps) — Zoho Corporation
+- [Pannai](https://play.google.com/store/search?q=Pannai&c=apps) — Zoho Corporation
+- [RIQ LT Agent](https://play.google.com/store/search?q=RIQ+LT+Agent&c=apps) — Zoho Corporation
+- [RouteIQ for Zoho CRM](https://play.google.com/store/search?q=RouteIQ+for+Zoho+CRM&c=apps) — Zoho Corporation
+- [Site24x7](https://play.google.com/store/search?q=Site24x7&c=apps) — Zoho Corporation
+- [StatusIQ by Site24x7](https://play.google.com/store/search?q=StatusIQ+by+Site24x7&c=apps) — Zoho Corporation
+- [The Green Room by Zoho](https://play.google.com/store/search?q=The+Green+Room+by+Zoho&c=apps) — Zoho Corporation
+- [TrainerCentral](https://play.google.com/store/search?q=TrainerCentral&c=apps) — Zoho Corporation
+- [Ulaa Browser](https://play.google.com/store/apps/details?id=com.zoho.primeum.stable) — Zoho Corporation
+- [Vani](https://play.google.com/store/search?q=Vani&c=apps) — Zoho Corporation
+- [Vikra: The Seller App](https://play.google.com/store/apps/details?id=com.zoho.vikra.seller) — Zoho Corporation
+- [ZDialer by Zoho Voice](https://play.google.com/store/search?q=ZDialer+by+Zoho+Voice&c=apps) — Zoho Corporation
+- [ZiBot](https://play.google.com/store/search?q=ZiBot&c=apps) — Zoho Corporation
+- [Zoho](https://play.google.com/store/search?q=Zoho&c=apps) — Zoho Corporation
+- [Zoho 1 on 1](https://play.google.com/store/search?q=Zoho+1+on+1&c=apps) — Zoho Corporation
+- [Zoho Analytics](https://play.google.com/store/search?q=Zoho+Analytics&c=apps) — Zoho Corporation
+- [Zoho Apptics](https://play.google.com/store/search?q=Zoho+Apptics&c=apps) — Zoho Corporation
+- [Zoho Assist](https://play.google.com/store/search?q=Zoho+Assist&c=apps) — Zoho Corporation
+- [Zoho Backstage](https://play.google.com/store/search?q=Zoho%20Backstage&c=apps) — Zoho Corporation
+- [Zoho Backstage for Attendees](https://play.google.com/store/search?q=Zoho+Backstage+for+Attendees&c=apps) — Zoho Corporation
+- [Zoho Barcode Generator](https://play.google.com/store/search?q=Zoho%20Barcode%20Generator&c=apps) — Zoho Corporation
+- [Zoho Books](https://play.google.com/store/search?q=Zoho+Books&c=apps) — Zoho Corporation
+- [Zoho business cards](https://play.google.com/store/search?q=Zoho%20business%20cards&c=apps) — Zoho Corporation
+- [Zoho Calendar](https://play.google.com/store/search?q=Zoho+Calendar&c=apps) — Zoho Corporation
+- [Zoho Campus](https://play.google.com/store/search?q=Zoho+Campus&c=apps) — Zoho Corporation
+- [Zoho Classes Faculty](https://play.google.com/store/search?q=Zoho+Classes+Faculty&c=apps) — Zoho Corporation
+- [Zoho Cliq for TV](https://play.google.com/store/search?q=Zoho%20Cliq%20for%20TV&c=apps) — Zoho Corporation
+- [Zoho Cliq Rooms](https://play.google.com/store/search?q=Zoho+Cliq+Rooms&c=apps) — Zoho Corporation
+- [Zoho Cliq: Meetings on Home TV](https://play.google.com/store/search?q=Zoho+Cliq%3A+Meetings+on+Home+TV&c=apps) — Zoho Corporation
+- [Zoho Commerce](https://play.google.com/store/search?q=Zoho%20Commerce&c=apps) — Zoho Corporation
+- [Zoho Community](https://play.google.com/store/search?q=Zoho+Community&c=apps) — Zoho Corporation
+- [Zoho CommunitySpaces](https://play.google.com/store/search?q=Zoho+CommunitySpaces&c=apps) — Zoho Corporation
+- [Zoho Connect](https://play.google.com/store/search?q=Zoho+Connect&c=apps) — Zoho Corporation
+- [Zoho Contracts](https://play.google.com/store/search?q=Zoho+Contracts&c=apps) — Zoho Corporation
+- [Zoho Creator Intune](https://play.google.com/store/search?q=Zoho+Creator+Intune&c=apps) — Zoho Corporation
+- [Zoho Creator On-premise](https://play.google.com/store/search?q=Zoho+Creator+On-premise&c=apps) — Zoho Corporation
+- [Zoho Creator Portal](https://play.google.com/store/search?q=Zoho+Creator+Portal&c=apps) — Zoho Corporation
+- [Zoho Creator Workspace](https://play.google.com/store/search?q=Zoho%20Creator%20Workspace&c=apps) — Zoho Corporation
+- [Zoho Creator: Low-code Platform](https://play.google.com/store/search?q=Zoho+Creator%3A+Low-code+Platform&c=apps) — Zoho Corporation
+- [Zoho CRM Analytics](https://play.google.com/store/search?q=Zoho%20CRM%20Analytics&c=apps) — Zoho Corporation
+- [Zoho Daybook](https://play.google.com/store/search?q=Zoho+Daybook&c=apps) — Zoho Corporation
+- [Zoho Desk](https://play.google.com/store/search?q=Zoho+Desk&c=apps) — Zoho Corporation
+- [Zoho Directory](https://play.google.com/store/search?q=Zoho+Directory&c=apps) — Zoho Corporation
+- [Zoho ERP](https://play.google.com/store/search?q=Zoho+ERP&c=apps) — Zoho Corporation
+- [Zoho eSign](https://play.google.com/store/search?q=Zoho%20eSign&c=apps) — Zoho Corporation
+- [Zoho Finance ERP](https://play.google.com/store/search?q=Zoho%20Finance%20ERP&c=apps) — Zoho Corporation
+- [Zoho Forms](https://play.google.com/store/search?q=Zoho+Forms&c=apps) — Zoho Corporation
+- [Zoho FSM](https://play.google.com/store/search?q=Zoho+FSM&c=apps) — Zoho Corporation
+- [Zoho GST Invoice Generator](https://play.google.com/store/search?q=Zoho%20GST%20Invoice%20Generator&c=apps) — Zoho Corporation
+- [Zoho Hub](https://play.google.com/store/search?q=Zoho%20Hub&c=apps) — Zoho Corporation
+- [Zoho Inventory](https://play.google.com/store/search?q=Zoho+Inventory&c=apps) — Zoho Corporation
+- [Zoho Inventory Portal](https://play.google.com/store/search?q=Zoho%20Inventory%20Portal&c=apps) — Zoho Corporation
+- [Zoho Inventory Tracker](https://play.google.com/store/search?q=Zoho%20Inventory%20Tracker&c=apps) — Zoho Corporation
+- [Zoho Invoice](https://play.google.com/store/search?q=Zoho+Invoice&c=apps) — Zoho Corporation
+- [Zoho IoT](https://play.google.com/store/search?q=Zoho+IoT&c=apps) — Zoho Corporation
+- [Zoho Learn](https://play.google.com/store/search?q=Zoho+Learn&c=apps) — Zoho Corporation
+- [Zoho Lens](https://play.google.com/store/search?q=Zoho+Lens&c=apps) — Zoho Corporation
+- [Zoho Mail Admin](https://play.google.com/store/search?q=Zoho+Mail+Admin&c=apps) — Zoho Corporation
+- [Zoho Meeting](https://play.google.com/store/search?q=Zoho+Meeting&c=apps) — Zoho Corporation
+- [Zoho Notebook](https://play.google.com/store/search?q=Zoho+Notebook&c=apps) — Zoho Corporation
+- [Zoho One](https://play.google.com/store/search?q=Zoho+One&c=apps) — Zoho Corporation
+- [Zoho Payroll](https://play.google.com/store/search?q=Zoho+Payroll&c=apps) — Zoho Corporation
+- [Zoho People](https://play.google.com/store/search?q=Zoho+People&c=apps) — Zoho Corporation
+- [Zoho People Kiosk](https://play.google.com/store/search?q=Zoho+People+Kiosk&c=apps) — Zoho Corporation
+- [Zoho POS](https://play.google.com/store/search?q=Zoho+POS&c=apps) — Zoho Corporation
+- [Zoho Procurement](https://play.google.com/store/search?q=Zoho+Procurement&c=apps) — Zoho Corporation
+- [Zoho Projects](https://play.google.com/store/search?q=Zoho+Projects&c=apps) — Zoho Corporation
+- [Zoho Publish](https://play.google.com/store/search?q=Zoho+Publish&c=apps) — Zoho Corporation
+- [Zoho Recruit](https://play.google.com/store/search?q=Zoho+Recruit&c=apps) — Zoho Corporation
+- [Zoho SalesIQ](https://play.google.com/store/search?q=Zoho+SalesIQ&c=apps) — Zoho Corporation
+- [Zoho SalesIQ for TV](https://play.google.com/store/search?q=Zoho%20SalesIQ%20for%20TV&c=apps) — Zoho Corporation
+- [Zoho Scanner](https://play.google.com/store/search?q=Zoho+Scanner&c=apps) — Zoho Corporation
+- [Zoho Schools](https://play.google.com/store/search?q=Zoho+Schools&c=apps) — Zoho Corporation
+- [Zoho Sheet](https://play.google.com/store/search?q=Zoho%20Sheet&c=apps) — Zoho Corporation
+- [Zoho Sheet: Spreadsheet App](https://play.google.com/store/search?q=Zoho+Sheet%3A+Spreadsheet+App&c=apps) — Zoho Corporation
+- [Zoho Shifts](https://play.google.com/store/search?q=Zoho+Shifts&c=apps) — Zoho Corporation
+- [Zoho Shifts Kiosk](https://play.google.com/store/search?q=Zoho+Shifts+Kiosk&c=apps) — Zoho Corporation
+- [Zoho Show](https://play.google.com/store/search?q=Zoho%20Show&c=apps) — Zoho Corporation
+- [Zoho Show Slideshow](https://play.google.com/store/search?q=Zoho%20Show%20Slideshow&c=apps) — Zoho Corporation
+- [Zoho Show: Presentation Maker](https://play.google.com/store/search?q=Zoho+Show%3A+Presentation+Maker&c=apps) — Zoho Corporation
+- [Zoho Sign](https://play.google.com/store/search?q=Zoho+Sign&c=apps) — Zoho Corporation
+- [Zoho Sites](https://play.google.com/store/search?q=Zoho%20Sites&c=apps) — Zoho Corporation
+- [Zoho Social](https://play.google.com/store/search?q=Zoho+Social&c=apps) — Zoho Corporation
+- [Zoho Solo](https://play.google.com/store/search?q=Zoho%20Solo&c=apps) — Zoho Corporation
+- [Zoho Solo: To do, CRM, Bills](https://play.google.com/store/search?q=Zoho+Solo%3A+To+do%2C+CRM%2C+Bills&c=apps) — Zoho Corporation
+- [Zoho Spend](https://play.google.com/store/search?q=Zoho+Spend&c=apps) — Zoho Corporation
+- [Zoho Survey](https://play.google.com/store/search?q=Zoho+Survey&c=apps) — Zoho Corporation
+- [Zoho Tables](https://play.google.com/store/search?q=Zoho+Tables&c=apps) — Zoho Corporation
+- [Zoho TeamInbox](https://play.google.com/store/search?q=Zoho+TeamInbox&c=apps) — Zoho Corporation
+- [Zoho ToDo](https://play.google.com/store/search?q=Zoho+ToDo&c=apps) — Zoho Corporation
+- [Zoho TouchPoint](https://play.google.com/store/search?q=Zoho+TouchPoint&c=apps) — Zoho Corporation
+- [Zoho Translate](https://play.google.com/store/search?q=Zoho+Translate&c=apps) — Zoho Corporation
+- [Zoho Vault](https://play.google.com/store/search?q=Zoho%20Vault&c=apps) — Zoho Corporation (Chennai)
+- [Zoho Vault Password Manager](https://play.google.com/store/search?q=Zoho+Vault+Password+Manager&c=apps) — Zoho Corporation
+- [Zoho Verticals](https://play.google.com/store/search?q=Zoho+Verticals&c=apps) — Zoho Corporation
+- [Zoho Webinar](https://play.google.com/store/search?q=Zoho+Webinar&c=apps) — Zoho Corporation
+- [Zoho WorkDrive](https://play.google.com/store/search?q=Zoho+WorkDrive&c=apps) — Zoho Corporation
+- [Zoho Workerly](https://play.google.com/store/search?q=Zoho+Workerly&c=apps) — Zoho Corporation
+- [Zoho Workerly Kiosk](https://play.google.com/store/search?q=Zoho+Workerly+Kiosk&c=apps) — Zoho Corporation
+- [Zoho Writer](https://play.google.com/store/search?q=Zoho+Writer&c=apps) — Zoho Corporation
+- [Zoho Zia Search](https://play.google.com/store/search?q=Zoho+Zia+Search&c=apps) — Zoho Corporation
+- [Zoholics](https://play.google.com/store/search?q=Zoholics&c=apps) — Zoho Corporation
+- [Zoholics Europe](https://play.google.com/store/search?q=Zoholics+Europe&c=apps) — Zoho Corporation
+
+## Media, Streaming & Audio
+
+_123 apps_
+
+- [AHA](https://play.google.com/store/search?q=AHA&c=apps)
+- [AI Leap: AI Photo generator](https://play.google.com/store/search?q=AI%20Leap%3A%20AI%20Photo%20generator&c=apps)
+- [AllVideo](https://play.google.com/store/apps/details?id=in.allvideo.app) — Allpixel Technologies
+- [ALTBalaji](https://play.google.com/store/search?q=ALTBalaji&c=apps) — Balaji Telefilms
+- [Animated Text Video: Textro](https://play.google.com/store/search?q=Animated%20Text%20Video%3A%20Textro&c=apps)
+- [ApnaTube](https://play.google.com/store/apps/details?id=com.apnatube.in)
+- [Audify Video Player](https://play.google.com/store/apps/details?id=com.audify.videoplayer) — Audify Player.
+- [Audio Video Mp3 Converter](https://play.google.com/store/search?q=Audio%20Video%20Mp3%20Converter&c=apps)
+- [Audiobooks by iPustak](https://play.google.com/store/apps/details?id=com.sonicoctaves.ipustak) — Sonic Octaves Pvt. Ltd.
+- [AudioLab Audio Editor Recorder](https://play.google.com/store/search?q=AudioLab%20Audio%20Editor%20Recorder&c=apps)
+- [AutoPlay](https://play.google.com/store/search?q=AutoPlay&c=apps) — AutoPlay
+- [Blur Camera Background Editor](https://play.google.com/store/apps/details?id=com.newzoomblur.dslr.dslrblurcamera) — Apps Specials
+- [BookMyShow](https://play.google.com/store/search?q=BookMyShow&c=apps) — Bigtree Entertainment
+- [Brand Mantra - Festival Poster](https://play.google.com/store/search?q=Brand%20Mantra%20-%20Festival%20Poster&c=apps)
+- [Business Card Maker](https://play.google.com/store/search?q=Business%20Card%20Maker&c=apps)
+- [Business Card Maker, Visting](https://play.google.com/store/search?q=Business%20Card%20Maker%2C%20Visting&c=apps)
+- [Changa - Made in India | Short](https://play.google.com/store/search?q=Changa%20-%20Made%20in%20India%20%7C%20Short&c=apps) — Changa
+- [Chroma Toons - Make Animation](https://play.google.com/store/search?q=Chroma%20Toons%20-%20Make%20Animation&c=apps)
+- [DialogBaaz - stand out!](https://play.google.com/store/search?q=DialogBaaz%20-%20stand%20out%21&c=apps)
+- [Discovery+ India](https://play.google.com/store/search?q=Discovery%2B+India&c=apps)
+- [District: Movies Events Dining](https://play.google.com/store/search?q=District%3A%20Movies%20Events%20Dining&c=apps) — Zomato (District)
+- [DocuBay](https://play.google.com/store/apps/details?id=com.epic.docubay) — DocuBay
+- [DualShot: Reels Camera](https://play.google.com/store/search?q=DualShot%20Reels%20Camera&c=apps) — Hitesh Choudhary
+- [DzynMode: Offline Poster Maker](https://play.google.com/store/apps/details?id=com.dzynmode) — AppLocus
+- [EPIC ON](https://play.google.com/store/search?q=EPIC+ON&c=apps)
+- [Eros Now](https://play.google.com/store/search?q=Eros%20Now&c=apps) — Eros
+- [Festival Poster Maker & Post](https://play.google.com/store/search?q=Festival%20Poster%20Maker%20%26%20Post&c=apps)
+- [Festival Studio: Poster Maker](https://play.google.com/store/search?q=Festival%20Studio%3A%20Poster%20Maker&c=apps)
+- [Folk Log: Bedtime Stories](https://play.google.com/store/search?q=Folk%20Log%3A%20Bedtime%20Stories&c=apps)
+- [Gaana](https://play.google.com/store/search?q=Gaana&c=apps)
+- [Gaatha - Audio books & stories](https://play.google.com/store/search?q=Gaatha%20-%20Audio%20books%20%26%20stories&c=apps)
+- [GIGL Audio Book and Courses](https://play.google.com/store/search?q=GIGL%20Audio%20Book%20and%20Courses&c=apps)
+- [GPS Camera - GeoTag Map Stamp](https://play.google.com/store/apps/details?id=gpscam.geotag.stamp) — Calendar 2026 Agenda
+- [Grids Maker - Photo Split Grid](https://play.google.com/store/apps/details?id=com.ist.grids.maker) — Appexel App Maker
+- [Guru: Short Videos App](https://play.google.com/store/search?q=Guru%3A%20Short%20Videos%20App&c=apps)
+- [Headfone - Audio Dramas](https://play.google.com/store/search?q=Headfone%20-%20Audio%20Dramas&c=apps)
+- [Hindavi Graphics](https://play.google.com/store/search?q=Hindavi%20Graphics&c=apps)
+- [Hipi - Short Videos | Rewards](https://play.google.com/store/search?q=Hipi%20-%20Short%20Videos%20%7C%20Rewards&c=apps)
+- [Hoichoi](https://play.google.com/store/search?q=Hoichoi&c=apps)
+- [Hungama OTT: Shows & Movies](https://play.google.com/store/search?q=Hungama%20OTT%3A%20Shows%20%26%20Movies&c=apps) — Hungama Digital Media
+- [Hungama Play](https://play.google.com/store/search?q=Hungama+Play&c=apps)
+- [Indube - Watch & Share Videos](https://play.google.com/store/search?q=Indube%20-%20Watch%20%26%20Share%20Videos&c=apps)
+- [Indube - Watch &amp; Share Videos](https://play.google.com/store/apps/details?id=com.indube.app) — indube official
+- [Inpix](https://play.google.com/store/search?q=Inpix&c=apps)
+- [JioCinema](https://play.google.com/store/search?q=JioCinema&c=apps) — Jio Platforms
+- [JioHotstar](https://play.google.com/store/apps/details?id=com.hotstar.android) — JioStar
+- [JioSaavn](https://play.google.com/store/apps/details?id=com.jio.media.jiobeats)
+- [Kuku Bhakti Mytho Spirituality](https://play.google.com/store/search?q=Kuku%20Bhakti%20Mytho%20Spirituality&c=apps) — Kuku FM
+- [Kuku FM](https://play.google.com/store/apps/details?id=com.kukufm.android)
+- [Kuku TV: Reel Shows & Movies](https://play.google.com/store/search?q=Kuku%20TV%3A%20Reel%20Shows%20%26%20Movies&c=apps) — Kuku FM
+- [Logo Maker Logo Design Creator](https://play.google.com/store/apps/details?id=com.ist.logomaker) — Appexel App Maker
+- [Logo Maker – Free Logo App](https://play.google.com/store/search?q=Logo%20Maker%20%E2%80%93%20Free%20Logo%20App&c=apps)
+- [Lokal - AI Status &amp; Updates](https://play.google.com/store/apps/details?id=get.lokal.localnews) — Lokal - AI enabled products for Bharat
+- [ManoramaMAX](https://play.google.com/store/search?q=ManoramaMAX&c=apps)
+- [Mantel: Family Album](https://play.google.com/store/apps/details?id=com.zynclave.familyalbum) — Zynclave Tech Private Limited
+- [Meme Maker &amp; Creator by Memeto](https://play.google.com/store/apps/details?id=com.ist.memeto.meme) — Appexel App Maker
+- [Moj Lite](https://play.google.com/store/search?q=Moj%20Lite&c=apps) — Mohalla Tech (ShareChat)
+- [Music Player - Audify Player](https://play.google.com/store/apps/details?id=com.musicplayer.playermusic) — Audify Player.
+- [MX Player](https://play.google.com/store/search?q=MX+Player&c=apps)
+- [myStatus | Create your story](https://play.google.com/store/apps/details?id=com.srewa.my_status) — MY STATUS
+- [MyText - Text Wallpaper Maker](https://play.google.com/store/apps/details?id=prime.nnkhire.mytextwallpaper) — Ninad Khire
+- [Mythik+](https://play.google.com/store/apps/details?id=com.mythik.mediaclient) — Mythik Entertainment Technologies Private Limited
+- [Next Player](https://play.google.com/store/search?q=Next%20Player&c=apps)
+- [Papaya - Chat Stories](https://play.google.com/store/apps/details?id=com.headfone.www.papaya) — Headfone
+- [Pencil Sketch](https://play.google.com/store/search?q=Pencil%20Sketch&c=apps)
+- [Photo Editor & Photo Collage](https://play.google.com/store/search?q=Photo%20Editor%20%26%20Photo%20Collage&c=apps)
+- [PixelFlow: Intro Video Maker](https://play.google.com/store/search?q=PixelFlow%3A%20Intro%20Video%20Maker&c=apps)
+- [Planet Marathi](https://play.google.com/store/search?q=Planet+Marathi&c=apps)
+- [Pocket FM](https://play.google.com/store/search?q=Pocket+FM&c=apps) — Pocket FM
+- [Pocket Novel](https://play.google.com/store/search?q=Pocket%20Novel&c=apps) — Pocket FM
+- [Pocket Toons: Comics & Webtoon](https://play.google.com/store/search?q=Pocket%20Toons%3A%20Comics%20%26%20Webtoon&c=apps) — Pocket FM
+- [Pocket TV](https://play.google.com/store/search?q=Pocket%20TV&c=apps) — Pocket FM
+- [Poster Maker & Banner Maker](https://play.google.com/store/search?q=Poster%20Maker%20%26%20Banner%20Maker&c=apps)
+- [Poster Maker Suvichar Festival](https://play.google.com/store/search?q=Poster%20Maker%20Suvichar%20Festival&c=apps)
+- [Pratilipi](https://play.google.com/store/search?q=Pratilipi&c=apps) — Nasadiya Technologies (Bengaluru)
+- [Public App](https://play.google.com/store/apps/details?id=com.cardfeed.video_public)
+- [PublicVibe: Local Area Videos](https://play.google.com/store/apps/details?id=com.newsdistill.mobile) — Eterno Infotech
+- [Raaga Hindi Tamil Telugu Songs](https://play.google.com/store/apps/details?id=com.raaga.android) — Raaga.com
+- [Rangila Tube](https://play.google.com/store/apps/details?id=com.aprosoftech.rangilatube)
+- [Riff -Create AI song in 10 sec](https://play.google.com/store/apps/details?id=com.audify.riff) — Audify Player.
+- [Saregama Carvaan](https://play.google.com/store/search?q=Saregama+Carvaan&c=apps)
+- [ShemarooMe](https://play.google.com/store/search?q=ShemarooMe&c=apps)
+- [Shraddha - Stotras &amp; Mantras](https://play.google.com/store/apps/details?id=com.sonicoctaves.omshraddha) — Sonic Octaves Pvt. Ltd.
+- [Snake Funny - Short Videos](https://play.google.com/store/search?q=Snake%20Funny%20-%20Short%20Videos&c=apps)
+- [SnapShot: Photo Editor Collage](https://play.google.com/store/search?q=SnapShot%3A%20Photo%20Editor%20Collage&c=apps)
+- [SonyLIV](https://play.google.com/store/apps/details?id=com.sonyliv)
+- [Soul Music](https://play.google.com/store/apps/details?id=com.soulmusic.app) — Powerful Creations IN
+- [Story TV - Watch Short Dramas](https://play.google.com/store/search?q=Story%20TV%20-%20Watch%20Short%20Dramas&c=apps)
+- [Storytel India](https://play.google.com/store/search?q=Storytel%20India&c=apps) — Storytel
+- [StoryZ Photo Motion Video loop](https://play.google.com/store/search?q=StoryZ%20Photo%20Motion%20Video%20loop&c=apps)
+- [Sun NXT](https://play.google.com/store/search?q=Sun+NXT&c=apps) — Sun TV Network
+- [Swag Video - Short Videos App](https://play.google.com/store/search?q=Swag%20Video%20-%20Short%20Videos%20App&c=apps)
+- [Swift TV - Live TV Streaming](https://play.google.com/store/search?q=Swift%20TV%20-%20Live%20TV%20Streaming&c=apps)
+- [Taala - Hindustani Carnatic](https://play.google.com/store/apps/details?id=raaga.taala.android) — Raaga.com
+- [Tata Play Binge: 30+ OTTs in 1](https://play.google.com/store/apps/details?id=com.tatasky.binge) — Tata Play
+- [Tata Play Smart: 500+ Channels](https://play.google.com/store/apps/details?id=com.ryzmedia.tatasky) — TataPlay
+- [Text Candy: Add text on photo](https://play.google.com/store/apps/details?id=com.ist.textcandy) — Appexel App Maker
+- [TextO Pro - Write on Photos](https://play.google.com/store/search?q=TextO%20Pro%20-%20Write%20on%20Photos&c=apps)
+- [The World Premium](https://play.google.com/store/apps/details?id=com.theworldpremium.com)
+- [Thumbnail Maker - Make Flyers](https://play.google.com/store/apps/details?id=com.ist.postermaker) — Appexel App Maker
+- [Toonsutra: Webtoon & Manga App](https://play.google.com/store/search?q=Toonsutra%3A%20Webtoon%20%26%20Manga%20App&c=apps)
+- [Udaan: Audiobooks & Podcasts](https://play.google.com/store/search?q=Udaan%3A%20Audiobooks%20%26%20Podcasts&c=apps)
+- [Ultimate Background Eraser](https://play.google.com/store/search?q=Ultimate%20Background%20Eraser&c=apps)
+- [Ultimate Photo Blender / Mixer](https://play.google.com/store/search?q=Ultimate%20Photo%20Blender%20/%20Mixer&c=apps)
+- [Ultimate Photo Editor](https://play.google.com/store/search?q=Ultimate%20Photo%20Editor&c=apps)
+- [Ultimate Picture Quotes](https://play.google.com/store/search?q=Ultimate%20Picture%20Quotes&c=apps)
+- [Ultra Gaane: Video Songs &More](https://play.google.com/store/search?q=Ultra%20Gaane%3A%20Video%20Songs%20%26More&c=apps) — Ultra Media & Entertainment
+- [Ultra Play Hindi Movies & More](https://play.google.com/store/search?q=Ultra%20Play%20Hindi%20Movies%20%26%20More&c=apps) — Ultra Media & Entertainment
+- [Vi Movies & TV - 20 OTTs in 1](https://play.google.com/store/search?q=Vi%20Movies%20%26%20TV%20-%2020%20OTTs%20in%201&c=apps) — Vodafone Idea
+- [Video All in one editor](https://play.google.com/store/search?q=Video%20All%20in%20one%20editor&c=apps)
+- [Video Crop](https://play.google.com/store/apps/details?id=video.crop.cut) — Shagun Software Farm
+- [Video Editor - Crop & Trim mp4](https://play.google.com/store/search?q=Video%20Editor%20-%20Crop%20%26%20Trim%20mp4&c=apps)
+- [Video Merge - Side By Side](https://play.google.com/store/search?q=Video%20Merge%20-%20Side%20By%20Side&c=apps)
+- [Vigo Short - Short Video App](https://play.google.com/store/search?q=Vigo%20Short%20-%20Short%20Video%20App&c=apps)
+- [Voice Changer - Audio Effects](https://play.google.com/store/apps/details?id=com.voicechangervoiceeffects.voicechangersoundeffects) — EKTA DIPAKBHAI PARMAR delightstarstudio
+- [Wakau - Fun & Entertainment](https://play.google.com/store/search?q=Wakau%20-%20Fun%20%26%20Entertainment&c=apps)
+- [WAVES](https://play.google.com/store/search?q=WAVES&c=apps) — Prasar Bharati
+- [Woke: Audiobooks & Podcasts](https://play.google.com/store/search?q=Woke%3A%20Audiobooks%20%26%20Podcasts&c=apps)
+- [Wynk Music](https://play.google.com/store/apps/details?id=com.bsbportal.music)
+- [Yvid : Make video from photos](https://play.google.com/store/search?q=Yvid%20%3A%20Make%20video%20from%20photos&c=apps)
+- [Yvid: Video Maker and Editor](https://play.google.com/store/apps/details?id=com.torus.yvideo) — yvid
+- [ZEE5](https://play.google.com/store/apps/details?id=com.graymatrix.did)
+- [ZEE5 Movies, Web Series, Shows](https://play.google.com/store/search?q=ZEE5%20Movies%2C%20Web%20Series%2C%20Shows&c=apps) — Zee Entertainment
+
+## Government, e-Governance & Citizen Services
+
+_117 apps_
+
+- [112 India](https://play.google.com/store/search?q=112%20India&c=apps)
+- [Aadhaar](https://play.google.com/store/apps/details?id=in.gov.uidai.pehchaan) — Unique Identification Authority of India
+- [Aadhaar FaceRD](https://play.google.com/store/search?q=Aadhaar+FaceRD&c=apps)
+- [AadhaarBAS](https://play.google.com/store/search?q=AadhaarBAS&c=apps)
+- [Aaple Sarkar](https://play.google.com/store/search?q=Aaple%20Sarkar&c=apps) — Government of Maharashtra
+- [Aarogya Setu](https://play.google.com/store/apps/details?id=nic.goi.aarogyasetu)
+- [Aaykar Setu](https://play.google.com/store/search?q=Aaykar%20Setu&c=apps)
+- [ABHA](https://play.google.com/store/search?q=ABHA&c=apps) · [Gov.in](https://apps.gov.in/app-info/2955)
+- [AIS for Taxpayers](https://play.google.com/store/apps/details?id=io.lntinfotech.AIStaxpayer) — Income Tax Department Government of India
+- [All India ITR](https://play.google.com/store/search?q=All%20India%20ITR&c=apps)
+- [AP Seva](https://play.google.com/store/search?q=AP%20Seva&c=apps)
+- [Apna](https://play.google.com/store/search?q=Apna&c=apps) — Apna Time Technologies (Bengaluru)
+- [Ayushman App](https://play.google.com/store/apps/details?id=com.beneficiaryapp) — National Health Authority
+- [BHASHINI](https://play.google.com/store/search?q=BHASHINI&c=apps) · [Gov.in](https://apps.gov.in/app-info/2328)
+- [BHIM](https://play.google.com/store/apps/details?id=in.org.npci.upiapp)
+- [Bihar Krishi](https://play.google.com/store/search?q=Bihar%20Krishi&c=apps)
+- [BLGOVEMP](https://play.google.com/store/search?q=BLGOVEMP&c=apps)
+- [Chhattisgarh Rozgar](https://play.google.com/store/search?q=Chhattisgarh%20Rozgar&c=apps)
+- [CMIS-UP](https://play.google.com/store/search?q=CMIS-UP&c=apps)
+- [CPGRAMS](https://play.google.com/store/search?q=CPGRAMS&c=apps)
+- [CSC APP](https://play.google.com/store/search?q=CSC%20APP&c=apps)
+- [DigiLocker](https://play.google.com/store/apps/details?id=com.digilocker.android) · [Gov.in](https://apps.gov.in/app-info/2451)
+- [Dishaank](https://play.google.com/store/apps/details?id=com.ksrsac.sslr) — Karnataka State Remote Sensing Application Centre
+- [Driving Licence Apply Info](https://play.google.com/store/search?q=Driving%20Licence%20Apply%20Info&c=apps)
+- [eChallan Seva](https://play.google.com/store/search?q=eChallan%20Seva&c=apps)
+- [eCourts Services](https://play.google.com/store/search?q=eCourts+Services&c=apps)
+- [eMitra](https://play.google.com/store/apps/details?id=in.gov.semt.rajeev.emitrapayment) — DoIT&C, Government of Rajasthan · [Gov.in](https://apps.gov.in/app-info/2925)
+- [eNAM](https://play.google.com/store/search?q=eNAM&c=apps)
+- [eSanjeevani](https://play.google.com/store/apps/details?id=com.cdac.esanjeevani)
+- [eSanjeevaniOPD](https://play.google.com/store/search?q=eSanjeevaniOPD&c=apps)
+- [eShram](https://play.google.com/store/search?q=eShram&c=apps)
+- [GeM Sahay](https://play.google.com/store/search?q=GeM%20Sahay&c=apps)
+- [Global Passport Seva](https://play.google.com/store/search?q=Global%20Passport%20Seva&c=apps)
+- [Gov.in Appstore](https://play.google.com/store/search?q=Gov.in%20Appstore&c=apps)
+- [GST e-Invoice Official](https://play.google.com/store/search?q=GST+e-Invoice+Official&c=apps)
+- [IFMIS Pensioner](https://play.google.com/store/search?q=IFMIS%20Pensioner&c=apps)
+- [IFMS 3.0 Govt. of Rajasthan](https://play.google.com/store/apps/details?id=gov.ifms.ess) — DoIT&C, Government of Rajasthan
+- [iGOT Karmayogi](https://play.google.com/store/apps/details?id=com.igot.karmayogibharat) — Karmayogi Bharat
+- [IRCTC Rail Connect](https://play.google.com/store/apps/details?id=cris.org.in.prs.ima) — IRCTC
+- [Jan Aushadhi Sugam (PMBI)](https://play.google.com/store/apps/details?id=in.gov.pmbjp) — Pharmaceuticals & Medical Devices Bureau of India
+- [Jan Sahayak](https://play.google.com/store/apps/details?id=com.ofb.sahayak) — Dept. of IT, Electronics \u0026 Communication, Haryana
+- [JanSamarth](https://play.google.com/store/search?q=JanSamarth&c=apps)
+- [Jeevan Pramaan](https://play.google.com/store/apps/details?id=com.aadhaar.life) — National Informatics Centre.
+- [KarnatakaOne](https://play.google.com/store/search?q=KarnatakaOne&c=apps) · [Gov.in](https://apps.gov.in/app-info/2730)
+- [Kavach Authentication](https://play.google.com/store/apps/details?id=com.gov.in) — NIC (Government of India)
+- [Khadya Sathi](https://play.google.com/store/search?q=Khadya%20Sathi&c=apps)
+- [Kisan Sarathi](https://play.google.com/store/search?q=Kisan%20Sarathi&c=apps)
+- [Kisan Suvidha](https://play.google.com/store/search?q=Kisan+Suvidha&c=apps)
+- [Krushi-Pragati](https://play.google.com/store/search?q=Krushi-Pragati&c=apps)
+- [KSmart](https://play.google.com/store/search?q=KSmart&c=apps)
+- [M-Kavach 2](https://play.google.com/store/apps/details?id=org.cdac.updatemkavach) — C-DAC Hyderabad
+- [mAadhaar](https://play.google.com/store/apps/details?id=com.uidai.mAadhaar)
+- [Maha-UPLABDHI](https://play.google.com/store/search?q=Maha-UPLABDHI&c=apps)
+- [Makkal Sevai](https://play.google.com/store/search?q=Makkal%20Sevai&c=apps)
+- [Mausam](https://play.google.com/store/apps/details?id=com.imd.masuam) — India Meteorological Department · [Gov.in](https://apps.gov.in/app-info/1518)
+- [Mera Ration](https://play.google.com/store/search?q=Mera%20Ration&c=apps)
+- [Meri Panchayat](https://play.google.com/store/search?q=Meri%20Panchayat&c=apps)
+- [Mhari Sadak](https://play.google.com/store/search?q=Mhari%20Sadak&c=apps)
+- [mKisan](https://play.google.com/store/search?q=mKisan&c=apps) · [Gov.in](https://apps.gov.in/app-info/759)
+- [MP Bhulekh](https://play.google.com/store/search?q=MP%20Bhulekh&c=apps)
+- [MP eNagarpalika](https://play.google.com/store/apps/details?id=com.mpuadd.enpcitizen) — Directorate of Urban Administration & Development
+- [MP Govt. Diary](https://play.google.com/store/apps/details?id=gov.mp.mapit.dairy) — M.P. State Electronics Development Corporation
+- [MP Kisan](https://play.google.com/store/search?q=MP%20Kisan&c=apps)
+- [MP Kisan App](https://play.google.com/store/apps/details?id=in.gov.mapit.kisanapp) — M.P. State Electronics Development Corporation
+- [MP Mobile](https://play.google.com/store/apps/details?id=in.mpo.mpmobile) — MPOnline Limited
+- [MP Samagra](https://play.google.com/store/apps/details?id=samagra.gov.in) — M.P. State Electronics Development Corporation
+- [mParivahan](https://play.google.com/store/search?q=mParivahan&c=apps)
+- [MY Bharat](https://play.google.com/store/apps/details?id=com.gov.mybharat) — Digital India Corporation, MeitY
+- [MyGov](https://play.google.com/store/search?q=MyGov&c=apps) · [Gov.in](https://apps.gov.in/app-info/1028)
+- [MyGrievance](https://play.google.com/store/search?q=MyGrievance&c=apps)
+- [MyMotor Challan Check](https://play.google.com/store/search?q=MyMotor%20Challan%20Check&c=apps)
+- [myScheme](https://play.google.com/store/search?q=myScheme&c=apps)
+- [MySpeed (TRAI)](https://play.google.com/store/search?q=MySpeed%20%28TRAI%29&c=apps) — TRAI · [Gov.in](https://apps.gov.in/app-info/1110)
+- [Narendra Modi App](https://play.google.com/store/search?q=Narendra%20Modi%20App&c=apps) — Narendra Modi (official)
+- [National Career Service](https://play.google.com/store/search?q=National%20Career%20Service&c=apps)
+- [National Digital Library India](https://play.google.com/store/apps/details?id=in.gov.ndl.ndlapp) — National Digital Library of India
+- [National Test Abhyas](https://play.google.com/store/search?q=National+Test+Abhyas&c=apps)
+- [NextGen mParivahan](https://play.google.com/store/apps/details?id=com.nic.mparivahan) — MoRTH (NIC)
+- [NIC Email](https://play.google.com/store/search?q=NIC%20Email&c=apps)
+- [NSP OTR](https://play.google.com/store/search?q=NSP%20OTR&c=apps)
+- [One Nation One Ration Card (ONORC)](https://play.google.com/store/search?q=One+Nation+One+Ration+Card+%28ONORC%29&c=apps)
+- [Passport Seva](https://play.google.com/store/search?q=Passport+Seva&c=apps)
+- [Passport Seva App](https://play.google.com/store/apps/details?id=gov.mea.pspv2) — PSP Division, Ministry of External Affairs
+- [PM - SURYA GHAR](https://play.google.com/store/apps/details?id=in.gov.bhaskar.negd.g2c) — Digital India Corporation
+- [PM Internship Scheme](https://play.google.com/store/apps/details?id=com.mca.pm_internship) — Ministry of Corporate Affairs
+- [PM SVANidhi](https://play.google.com/store/search?q=PM%20SVANidhi&c=apps)
+- [PM Vishwakarma](https://play.google.com/store/apps/details?id=com.pmvishwakarma) — Ministry of Micro, Small and Medium Enterprises
+- [PM-KISAN GOI](https://play.google.com/store/apps/details?id=com.nic.project.pmkisan) — National Informatics Centre.
+- [PMO India](https://play.google.com/store/search?q=PMO%20India&c=apps) — Prime Minister's Office
+- [POSHAN Tracker](https://play.google.com/store/apps/details?id=com.poshantracker) — National eGovernance Division, Government of India
+- [Punjab Kirti Sahayak](https://play.google.com/store/apps/details?id=com.nic.bocw) — National Informatics Centre
+- [Punjab mSewa](https://play.google.com/store/apps/details?id=com.psegs.dgr.punjab_msewa) — Government of Punjab
+- [PWD Sewa 2.0 - Delhi Govt App](https://play.google.com/store/apps/details?id=com.sis.pwdsewaapp) — Delhi Government Public Works Department
+- [RailMadad](https://play.google.com/store/search?q=RailMadad&c=apps)
+- [RailOne](https://play.google.com/store/apps/details?id=org.cris.aikyam) — Centre for Railway Information Systems
+- [Ration Card Online Info](https://play.google.com/store/search?q=Ration%20Card%20Online%20Info&c=apps)
+- [Reserve Bank of India](https://play.google.com/store/search?q=Reserve%20Bank%20of%20India&c=apps) — RBI
+- [Sanchar Saathi](https://play.google.com/store/search?q=Sanchar%20Saathi&c=apps)
+- [Sarkari Result](https://play.google.com/store/search?q=Sarkari%20Result&c=apps)
+- [Sarkari Yojana](https://play.google.com/store/search?q=Sarkari%20Yojana&c=apps)
+- [Skill India Digital Hub](https://play.google.com/store/apps/details?id=com.nsdcindia.skillindiaplatform) — National Skill Development Corporation
+- [Swachhata-MoHUA](https://play.google.com/store/apps/details?id=com.ichangemycity.swachhbharat) — Janaagraha, for MoHUA
+- [SWAGAT Online](https://play.google.com/store/apps/details?id=com.app.swagatonline) — Government of Gujarat
+- [Swayam](https://play.google.com/store/apps/details?id=in.gov.swayam.app) — Indian Institute of Technology Madras
+- [T Wallet](https://play.google.com/store/search?q=T%20Wallet&c=apps)
+- [TN CM Helpline Citizen](https://play.google.com/store/apps/details?id=org.tnega.cmhelpline.citizen) — Tamil Nadu e-Governance Agency
+- [TNEMIS](https://play.google.com/store/search?q=TNEMIS&c=apps)
+- [TNEPDS](https://play.google.com/store/search?q=TNEPDS&c=apps)
+- [TNREGINET](https://play.google.com/store/apps/details?id=com.tnreginet.tnigrs) — Office of the Inspector General of Registration, Tamil Nadu
+- [TRAI Channel Selector](https://play.google.com/store/apps/details?id=com.rma.csap) — TRAI
+- [TRAI DND](https://play.google.com/store/apps/details?id=trai.gov.in.dnd) — Telecom Regulatory Authority of India (TRAI)
+- [TRAI MyCALL](https://play.google.com/store/apps/details?id=com.trai.mycall) — TRAI
+- [UMANG](https://play.google.com/store/apps/details?id=in.gov.umang.negd.g2c) · [Gov.in](https://apps.gov.in/app-info/2509)
+- [UTS](https://play.google.com/store/search?q=UTS&c=apps)
+- [Voter Helpline](https://play.google.com/store/search?q=Voter%20Helpline&c=apps)
+- [Yatri Sathi - Ride Booking App](https://play.google.com/store/apps/details?id=in.juspay.jatrisaathi) — Department of IT&E, Government of West Bengal
+- [Yatri Sathi Driver](https://play.google.com/store/search?q=Yatri%20Sathi%20Driver&c=apps)
+
+## Fintech, Payments & Banking
+
+_78 apps_
+
+- [5paisa](https://play.google.com/store/search?q=5paisa&c=apps) — 5paisa Capital
+- [Angel One](https://play.google.com/store/apps/details?id=com.msf.angelmobile) — Angel One
+- [ArthNote: Expense Tracker](https://play.google.com/store/apps/details?id=com.vaghelasoftwares.arthnote) — Mahipatsinh Parbatsinh Vaghela vaghelasoftwares
+- [Axis Mobile: Pay, Invest & UPI](https://play.google.com/store/search?q=Axis%20Mobile%3A%20Pay%2C%20Invest%20%26%20UPI&c=apps) — Axis Bank
+- [Bajaj Finserv: Loans, UPI & FD](https://play.google.com/store/search?q=Bajaj%20Finserv%3A%20Loans%2C%20UPI%20%26%20FD&c=apps) — Bajaj Finserv
+- [BharatPe](https://play.google.com/store/search?q=BharatPe&c=apps) — BharatPe
+- [BHIM (NPCI)](https://play.google.com/store/search?q=BHIM%20%28NPCI%29&c=apps)
+- [BHIM Axis Pay:UPI,Online Recha](https://play.google.com/store/search?q=BHIM%20Axis%20Pay%3AUPI%2COnline%20Recha&c=apps) — Axis Bank
+- [BHIM Bharat's Own Payments App](https://play.google.com/store/search?q=BHIM%20Bharat%27s%20Own%20Payments%20App&c=apps) — NPCI
+- [BHIM IndusPay](https://play.google.com/store/search?q=BHIM%20IndusPay&c=apps) — IndusInd Bank
+- [BHIM UPI](https://play.google.com/store/search?q=BHIM%20UPI&c=apps)
+- [Cashfree Payments](https://play.google.com/store/search?q=Cashfree+Payments&c=apps)
+- [CRED](https://play.google.com/store/apps/details?id=com.dreamplug.androidapp)
+- [Dhan: Stock Market Trading App](https://play.google.com/store/apps/details?id=com.dhan.live) — Dhan (Raise Securities)
+- [Dhani: UPI, Cards & Bills](https://play.google.com/store/search?q=Dhani%3A%20UPI%2C%20Cards%20%26%20Bills&c=apps) — Dhani
+- [ET Money](https://play.google.com/store/search?q=ET+Money&c=apps) — Times Internet
+- [FamApp by Trio: UPI & Card](https://play.google.com/store/search?q=FamApp%20by%20Trio%3A%20UPI%20%26%20Card&c=apps) — FamPay (Trio)
+- [Fi Money](https://play.google.com/store/search?q=Fi+Money&c=apps)
+- [FinoPay](https://play.google.com/store/search?q=FinoPay&c=apps) — Fino Payments Bank
+- [Freecharge](https://play.google.com/store/search?q=Freecharge&c=apps) — Axis Bank
+- [Freo - UPI, Insurance, Loans](https://play.google.com/store/search?q=Freo%20-%20UPI%2C%20Insurance%2C%20Loans&c=apps)
+- [Groww](https://play.google.com/store/apps/details?id=com.nextbillion.groww)
+- [Happay Expense](https://play.google.com/store/apps/details?id=com.happay.android.v2) — Happay Expense
+- [iMobile: Loan, Cards & Banking](https://play.google.com/store/search?q=iMobile%3A%20Loan%2C%20Cards%20%26%20Banking&c=apps) — ICICI Bank
+- [iMudra by IRCTC - Wallet, Card](https://play.google.com/store/apps/details?id=com.matchmovepay.irctc) — IRCTC Official
+- [India Post Mobile Banking](https://play.google.com/store/apps/details?id=src.com.dop) — Department of Posts
+- [INDIE For Business](https://play.google.com/store/search?q=INDIE%20For%20Business&c=apps) — IndusInd Bank
+- [INDmoney](https://play.google.com/store/search?q=INDmoney&c=apps)
+- [IndSMART IndianBank Mobile App](https://play.google.com/store/search?q=IndSMART%20IndianBank%20Mobile%20App&c=apps) — Indian Bank
+- [IndusInd Bank: Savings A/C, FD](https://play.google.com/store/search?q=IndusInd%20Bank%3A%20Savings%20A/C%2C%20FD&c=apps) — IndusInd Bank
+- [IndusInd Bharat Financial](https://play.google.com/store/search?q=IndusInd+Bharat+Financial&c=apps)
+- [IndusMobile : Digital Banking](https://play.google.com/store/search?q=IndusMobile%20%3A%20Digital%20Banking&c=apps) — IndusInd Bank
+- [InstaBIZ by ICICI Bank](https://play.google.com/store/search?q=InstaBIZ%20by%20ICICI%20Bank&c=apps) — ICICI Bank
+- [JioFinance](https://play.google.com/store/search?q=JioFinance&c=apps)
+- [JioPay Business](https://play.google.com/store/search?q=JioPay%20Business&c=apps) — Jio (Reliance)
+- [Jupiter](https://play.google.com/store/search?q=Jupiter&c=apps)
+- [Khatabook](https://play.google.com/store/apps/details?id=com.khatabook)
+- [Kissht: Instant Personal Loans](https://play.google.com/store/search?q=Kissht%3A%20Instant%20Personal%20Loans&c=apps) — OnEMI Technology (Kissht)
+- [Kite by Zerodha](https://play.google.com/store/search?q=Kite%20by%20Zerodha&c=apps)
+- [Kiwi: Cashback + UPI on Credit](https://play.google.com/store/search?q=Kiwi%3A%20Cashback%20%2B%20UPI%20on%20Credit&c=apps)
+- [Kotak Bank: 811 Mobile App](https://play.google.com/store/search?q=Kotak%20Bank%3A%20811%20Mobile%20App&c=apps) — Kotak Mahindra Bank
+- [Kredit.Pe: Get Cashback on UPI](https://play.google.com/store/search?q=Kredit.Pe%3A%20Get%20Cashback%20on%20UPI&c=apps)
+- [KreditBee: Personal Loans, UPI](https://play.google.com/store/search?q=KreditBee%3A%20Personal%20Loans%2C%20UPI&c=apps) — KreditBee
+- [Millions: Mutual Fund & Stocks](https://play.google.com/store/search?q=Millions%3A%20Mutual%20Fund%20%26%20Stocks&c=apps)
+- [Millions: Mutual Fund &amp; Stocks](https://play.google.com/store/apps/details?id=com.millions.live) — RAISE FINTECH VENTURES PRIVATE LIMITED
+- [MobiKwik](https://play.google.com/store/apps/details?id=com.mobikwik_new) — One MobiKwik
+- [Moneyview: UPI, Personal Loans](https://play.google.com/store/search?q=Moneyview%3A%20UPI%2C%20Personal%20Loans&c=apps) — Whizdm Innovations (moneyview)
+- [myITreturn](https://play.google.com/store/apps/details?id=com.myitreturn.app) — myITreturn
+- [Navi](https://play.google.com/store/search?q=Navi&c=apps)
+- [NbliqX](https://play.google.com/store/apps/details?id=com.ags.nbliqbrowser) — AIRO GLOBAL SOFTWARE PRIVATE LIMITED support
+- [OkCredit](https://play.google.com/store/search?q=OkCredit&c=apps)
+- [OmniCard: UPI, Card & Rewards](https://play.google.com/store/search?q=OmniCard%3A%20UPI%2C%20Card%20%26%20Rewards&c=apps)
+- [OneCard: Credit Card & UPI](https://play.google.com/store/search?q=OneCard%3A%20Credit%20Card%20%26%20UPI&c=apps) — OneCard (FPL Technologies)
+- [Options Trader: FnO & Stocks](https://play.google.com/store/search?q=Options%20Trader%3A%20FnO%20%26%20Stocks&c=apps)
+- [Options Trader: FnO &amp; Stocks](https://play.google.com/store/apps/details?id=com.dhanoptions.live) — RAISE FINTECH VENTURES PRIVATE LIMITED
+- [PayNearby - Aadhaar ATM, DMT](https://play.google.com/store/apps/details?id=com.bnb.paynearby) — Nearby Technologies
+- [Paytm](https://play.google.com/store/apps/details?id=net.one97.paytm)
+- [Paytm Money](https://play.google.com/store/search?q=Paytm+Money&c=apps) — One97 Communications
+- [PayZapp UPI Wallet, Pixel Card](https://play.google.com/store/search?q=PayZapp%20UPI%20Wallet%2C%20Pixel%20Card&c=apps) — HDFC Bank
+- [PhonePe](https://play.google.com/store/apps/details?id=com.phonepe.app)
+- [Pine Labs](https://play.google.com/store/search?q=Pine+Labs&c=apps)
+- [PNB ONE](https://play.google.com/store/search?q=PNB%20ONE&c=apps) — Punjab National Bank
+- [PolicyBazaar](https://play.google.com/store/search?q=PolicyBazaar&c=apps)
+- [POP: UPI Rewards & Payments](https://play.google.com/store/search?q=POP%3A%20UPI%20Rewards%20%26%20Payments&c=apps)
+- [Razorpay](https://play.google.com/store/search?q=Razorpay&c=apps)
+- [RING (by Kissht): Quick Loans](https://play.google.com/store/search?q=RING%20%28by%20Kissht%29%3A%20Quick%20Loans&c=apps) — OnEMI Technology (Kissht)
+- [Shriram One: FD, UPI, Loans](https://play.google.com/store/search?q=Shriram%20One%3A%20FD%2C%20UPI%2C%20Loans&c=apps) — Shriram Finance
+- [Slice](https://play.google.com/store/search?q=Slice&c=apps)
+- [Smallcase](https://play.google.com/store/search?q=Smallcase&c=apps)
+- [T Wallet (Old)](https://play.google.com/store/apps/details?id=com.telangana.twallet) — Citizen Services ● ITE\u0026C Dept ● Govt of Telangana
+- [TallyPrime](https://play.google.com/store/search?q=TallyPrime&c=apps)
+- [Trendlyne: Markets, Screeners](https://play.google.com/store/search?q=Trendlyne%3A%20Markets%2C%20Screeners&c=apps) — Trendlyne
+- [TrueBalance-Personal Loan, UPI](https://play.google.com/store/search?q=TrueBalance-Personal%20Loan%2C%20UPI&c=apps)
+- [Upstox](https://play.google.com/store/apps/details?id=com.upstox.android) — RKSV Securities
+- [Vyapar](https://play.google.com/store/search?q=Vyapar&c=apps)
+- [YES PAY Biz](https://play.google.com/store/search?q=YES%20PAY%20Biz&c=apps) — YES Bank
+- [Zen Lyfe - Bank of Maharashtra](https://play.google.com/store/apps/details?id=com.bom.lifestylebanking) — Bank of Maharashtra
+- [Zerodha (Kite)](https://play.google.com/store/apps/details?id=com.zerodha.kite3)
+
+## Health, Fitness & Pharmacy
+
+_73 apps_
+
+- [7 Chakras Balancing / Activate](https://play.google.com/store/search?q=7%20Chakras%20Balancing%20/%20Activate&c=apps)
+- [7 Minute Pranayama](https://play.google.com/store/search?q=7%20Minute%20Pranayama&c=apps)
+- [Abhyaasa: Meditation - SriSri](https://play.google.com/store/apps/details?id=com.sumerusolutions.abhyasaAndroid) — Sumeru Technology Solutions Pvt Ltd
+- [AiFitScan - AI Calorie Tracker](https://play.google.com/store/search?q=AiFitScan%20-%20AI%20Calorie%20Tracker&c=apps)
+- [Apollo 24|7](https://play.google.com/store/search?q=Apollo+24%7C7&c=apps) — Apollo Hospitals
+- [August AI](https://play.google.com/store/apps/details?id=com.augustai.mobileapp)
+- [BeatO](https://play.google.com/store/search?q=BeatO&c=apps)
+- [bliss by Gurudev](https://play.google.com/store/apps/details?id=com.meditation.tracker.android) — Sattva.Life
+- [CalSage: AI Calorie Counter](https://play.google.com/store/apps/details?id=com.trilokdeveloper.aifitscan) — Tirovex
+- [cult connect app](https://play.google.com/store/search?q=cult%20connect%20app&c=apps) — Cult.fit
+- [Cult Team](https://play.google.com/store/search?q=Cult%20Team&c=apps) — Cult.fit
+- [Cult.fit](https://play.google.com/store/search?q=Cult.fit&c=apps) — Curefit
+- [Dietlytics: AI Calorie Counter](https://play.google.com/store/apps/details?id=co.dietlytics.mobile.app) — Seruces Information Technology Private Limited.
+- [eSanjeevani - MoHFW](https://play.google.com/store/apps/details?id=hied.esanjeevaniabopd.com) — Health Informatics Group, C-DAC Mohali, INDIA
+- [Fit India Mobile App](https://play.google.com/store/search?q=Fit%20India%20Mobile%20App&c=apps) — Government of India
+- [Fitpage](https://play.google.com/store/search?q=Fitpage&c=apps)
+- [Fitrox - AI Strength Coach](https://play.google.com/store/apps/details?id=co.fitrox.app) — Seruces Information Technology Private Limited.
+- [Gymlytics: Workout Planner](https://play.google.com/store/apps/details?id=co.gymlytics.mobile.app) — Seruces Information Technology Private Limited.
+- [HealthifyMe](https://play.google.com/store/apps/details?id=com.healthifyme.basic)
+- [HealthKart](https://play.google.com/store/search?q=HealthKart&c=apps)
+- [HealthKart: Fitness for All](https://play.google.com/store/apps/details?id=com.healthkart.healthkart) — Brightlifecare
+- [Heartfulness: Daily Meditation](https://play.google.com/store/apps/details?id=org.heartfulness.heartintune.prod) — Heartfulness Institute
+- [Hidoc Dr.](https://play.google.com/store/apps/details?id=co.hidoc.doctor) — Hidoc
+- [Hyugalife: Online Protein App](https://play.google.com/store/search?q=Hyugalife%3A%20Online%20Protein%20App&c=apps) — Hyugalife
+- [Impact App](https://play.google.com/store/search?q=Impact%20App&c=apps) — Green Freedom (Mumbai)
+- [iMumz](https://play.google.com/store/apps/details?id=com.pruoo.pruoo_app) — Pruoo
+- [InnerBhakti - Shiv se Shanti](https://play.google.com/store/apps/details?id=app.innerbhakti.com) — InnerBhakti
+- [Khyaal: Senior Citizens App](https://play.google.com/store/apps/details?id=com.khyaal.senior) — Khyaal Inc
+- [Let's Meditate: Relax & Sleep](https://play.google.com/store/search?q=Let%27s%20Meditate%3A%20Relax%20%26%20Sleep&c=apps)
+- [Loop Health](https://play.google.com/store/search?q=Loop+Health&c=apps)
+- [LunaBloom: Period & Cycle](https://play.google.com/store/apps/details?id=com.zynclave.luna) — Zynclave Tech Private Limited
+- [Medibuddy](https://play.google.com/store/search?q=Medibuddy&c=apps)
+- [Meditation Minutes-Calm, Chat](https://play.google.com/store/apps/details?id=com.coolplay.calmtones) — Coolplay Club
+- [Meditation Minutes-Calm, Sleep](https://play.google.com/store/search?q=Meditation%20Minutes-Calm%2C%20Sleep&c=apps)
+- [Meditation Music - Relax, Calm](https://play.google.com/store/search?q=Meditation%20Music%20-%20Relax%2C%20Calm&c=apps)
+- [Meditation: Training Session](https://play.google.com/store/search?q=Meditation%3A%20Training%20Session&c=apps)
+- [Mudra Yoga](https://play.google.com/store/search?q=Mudra%20Yoga&c=apps)
+- [Mudras : Yoga, Meditation](https://play.google.com/store/search?q=Mudras%20%3A%20Yoga%2C%20Meditation&c=apps)
+- [MyUpchar](https://play.google.com/store/search?q=MyUpchar&c=apps)
+- [Neend: Relax, Sleep, Meditate](https://play.google.com/store/search?q=Neend%3A%20Relax%2C%20Sleep%2C%20Meditate&c=apps)
+- [Netmeds](https://play.google.com/store/search?q=Netmeds&c=apps)
+- [Orange Health](https://play.google.com/store/search?q=Orange+Health&c=apps)
+- [PharmEasy](https://play.google.com/store/apps/details?id=com.pharmeasy.user) — PharmEasy
+- [Practo](https://play.google.com/store/apps/details?id=com.practo.fabric) — Practo
+- [Pranayama : Breathing Exercise](https://play.google.com/store/search?q=Pranayama%20%3A%20Breathing%20Exercise&c=apps)
+- [Pristyn Care](https://play.google.com/store/search?q=Pristyn+Care&c=apps)
+- [Redcliffe Labs](https://play.google.com/store/search?q=Redcliffe+Labs&c=apps)
+- [SastaSundar](https://play.google.com/store/apps/details?id=com.shtpl.sastasundar) — SastaSundar
+- [Sattva: Meditation and Mantras](https://play.google.com/store/search?q=Sattva%3A%20Meditation%20and%20Mantras&c=apps)
+- [Seekho Health: Weight Loss App](https://play.google.com/store/apps/details?id=com.seekhoai.android) — Seekho App
+- [Sleep Sounds - Calm, Relax](https://play.google.com/store/search?q=Sleep%20Sounds%20-%20Calm%2C%20Relax&c=apps)
+- [Sleep, Relax &amp; Calm Sounds](https://play.google.com/store/apps/details?id=com.soovio.rdmanagement) — Soovio
+- [Soundscape - Sleep & Meditate](https://play.google.com/store/search?q=Soundscape%20-%20Sleep%20%26%20Meditate&c=apps)
+- [StepSetGo](https://play.google.com/store/search?q=StepSetGo&c=apps) — StepSetGo (Mumbai)
+- [Sukin Health](https://play.google.com/store/search?q=Sukin+Health&c=apps)
+- [Surya Namaskar - Stretch App](https://play.google.com/store/search?q=Surya%20Namaskar%20-%20Stretch%20App&c=apps)
+- [Tata 1mg](https://play.google.com/store/search?q=Tata+1mg&c=apps) — Tata 1mg
+- [TATA 1mg Online Healthcare App](https://play.google.com/store/apps/details?id=com.aranoah.healthkart.plus) — Tata 1MG Healthcare Solutions Private Limited
+- [Truemeds](https://play.google.com/store/search?q=Truemeds&c=apps)
+- [Ultrahuman](https://play.google.com/store/search?q=Ultrahuman&c=apps)
+- [Vaidya AI](https://play.google.com/store/search?q=Vaidya%20AI&c=apps)
+- [Vitara - Your Health Journey](https://play.google.com/store/apps/details?id=com.zynclave.vitara.android) — Zynclave Tech Private Limited
+- [What&#39;s in it?](https://play.google.com/store/apps/details?id=com.nexever.whats) — Nexever Private Limited
+- [Whispering Infinity](https://play.google.com/store/apps/details?id=org.artofliving.whispering.infinity) — Sumeru Technology Solutions Pvt Ltd
+- [WHO mYoga](https://play.google.com/store/search?q=WHO%20mYoga&c=apps) — WHO / Ministry of AYUSH
+- [Xume: Health Food Scanner App](https://play.google.com/store/search?q=Xume%3A%20Health%20Food%20Scanner%20App&c=apps)
+- [Yoga 108](https://play.google.com/store/search?q=Yoga%20108&c=apps)
+- [Yoga for Kids & Family fitness](https://play.google.com/store/search?q=Yoga%20for%20Kids%20%26%20Family%20fitness&c=apps)
+- [Yoga for Weight Loss](https://play.google.com/store/search?q=Yoga%20for%20Weight%20Loss&c=apps)
+- [Yoga in Hindi | योगासन Offline](https://play.google.com/store/search?q=Yoga%20in%20Hindi%20%7C%20%E0%A4%AF%E0%A5%8B%E0%A4%97%E0%A4%BE%E0%A4%B8%E0%A4%A8%20Offline&c=apps)
+- [Yoga In Marathi | योगासने](https://play.google.com/store/search?q=Yoga%20In%20Marathi%20%7C%20%E0%A4%AF%E0%A5%8B%E0%A4%97%E0%A4%BE%E0%A4%B8%E0%A4%A8%E0%A5%87&c=apps)
+- [Yoga Mudras: Breathing, Health](https://play.google.com/store/apps/details?id=com.app.mudrabliss) — Daily Chants
+- [Yoga Poses For Beginners](https://play.google.com/store/search?q=Yoga%20Poses%20For%20Beginners&c=apps)
+
+## E-Commerce, Quick-Commerce & Retail
+
+_65 apps_
+
+- [Ajio](https://play.google.com/store/search?q=Ajio&c=apps)
+- [bb mandi](https://play.google.com/store/apps/details?id=com.bigbasket.mobileapp.mandi) — bigbasket (Tata group)
+- [bbdaily: Online Milk & Grocery](https://play.google.com/store/search?q=bbdaily%3A%20Online%20Milk%20%26%20Grocery&c=apps) — bigbasket (Tata group)
+- [bbinstant](https://play.google.com/store/apps/details?id=com.bigbasket.bbinstant) — bigbasket (Tata group)
+- [bbsaathi - B2B Shopping](https://play.google.com/store/apps/details?id=com.bigbasket.saathi) — bigbasket (Tata group)
+- [Beyoung - Online Shopping App](https://play.google.com/store/apps/details?id=com.beyoungapp) — Beyoung
+- [BigBasket](https://play.google.com/store/apps/details?id=com.bigbasket.mobileapp)
+- [Blinkit](https://play.google.com/store/apps/details?id=com.grofers.customerapp)
+- [BOAT Lifestyle](https://play.google.com/store/search?q=BOAT+Lifestyle&c=apps)
+- [CarDekho](https://play.google.com/store/search?q=CarDekho&c=apps) — Girnar Software
+- [Cars24](https://play.google.com/store/search?q=Cars24&c=apps) — Cars24
+- [Cashify](https://play.google.com/store/search?q=Cashify&c=apps)
+- [CityMall: Online Shopping App](https://play.google.com/store/apps/details?id=live.citymall.customer.prod) — CityMall
+- [Croma](https://play.google.com/store/search?q=Croma&c=apps)
+- [DealShare: Online Grocery App](https://play.google.com/store/search?q=DealShare%3A%20Online%20Grocery%20App&c=apps) — DealShare
+- [DeoDap: Online Shopping app](https://play.google.com/store/apps/details?id=com.deodap.gallery) — DeoDap
+- [Desi Farms](https://play.google.com/store/search?q=Desi%20Farms&c=apps) — Desi Farms
+- [Digihaat by ONDC](https://play.google.com/store/apps/details?id=org.ondc.nirmitbap) — Nirmit Bharat
+- [Dukaan](https://play.google.com/store/search?q=Dukaan&c=apps)
+- [Ezowm](https://play.google.com/store/apps/details?id=softa.ezowm.market) — Softa Technologies
+- [Fire-Boltt](https://play.google.com/store/search?q=Fire-Boltt&c=apps)
+- [FirstCry](https://play.google.com/store/search?q=FirstCry&c=apps) — BrainBees Solutions
+- [Flipkart](https://play.google.com/store/apps/details?id=com.flipkart.android)
+- [FreeUp: Sell & Buy Clothes](https://play.google.com/store/search?q=FreeUp%3A%20Sell%20%26%20Buy%20Clothes&c=apps) — FreeUp
+- [FreeUp: Sell &amp; Buy Clothes](https://play.google.com/store/apps/details?id=com.freeupapp.freeup) — FreeUp
+- [Gazillio Online Shopping App](https://play.google.com/store/apps/details?id=com.vikrams.gazillio) — VR  Labs
+- [IndiaMART](https://play.google.com/store/search?q=IndiaMART&c=apps)
+- [JioMart](https://play.google.com/store/search?q=JioMart&c=apps) — Jio Platforms
+- [KisanKonnect FarmFresh Produce](https://play.google.com/store/search?q=KisanKonnect%20FarmFresh%20Produce&c=apps) — KisanKonnect
+- [Krave Mart - Grocery Delivery](https://play.google.com/store/apps/details?id=com.krrave.customer) — Krrave Technologies Pte Ltd
+- [Lenskart](https://play.google.com/store/search?q=Lenskart&c=apps) — Lenskart
+- [LoveLocal: Grocery App](https://play.google.com/store/search?q=LoveLocal%3A%20Grocery%20App&c=apps)
+- [Mamaearth](https://play.google.com/store/search?q=Mamaearth&c=apps)
+- [Meesho](https://play.google.com/store/apps/details?id=com.meesho.supply)
+- [Milkbasket: Grocery Delivery](https://play.google.com/store/apps/details?id=com.milkbasket.app) — Milkbasket
+- [more: grocery delivery](https://play.google.com/store/apps/details?id=in.moreretail.grocery) — Aditya Birla Retail
+- [Myntra](https://play.google.com/store/apps/details?id=com.myntra.android)
+- [NoBroker](https://play.google.com/store/search?q=NoBroker&c=apps) — NoBroker
+- [NoiseFit](https://play.google.com/store/search?q=NoiseFit&c=apps)
+- [Nykaa](https://play.google.com/store/apps/details?id=com.fsn.nds)
+- [Nykd by Nykaa](https://play.google.com/store/search?q=Nykd+by+Nykaa&c=apps)
+- [Organic Bazar | Home Gardening](https://play.google.com/store/apps/details?id=net.organicbazar) — OrganicBazar
+- [Otipy:Fresh Vegetable & Fruits](https://play.google.com/store/search?q=Otipy%3AFresh%20Vegetable%20%26%20Fruits&c=apps) — Otipy
+- [Otipy:Fresh Vegetable &amp; Fruits](https://play.google.com/store/apps/details?id=com.otipy.otipy) — Crofarm
+- [Pepperfry](https://play.google.com/store/search?q=Pepperfry&c=apps)
+- [Pepperfry: Furniture &amp; Decor](https://play.google.com/store/apps/details?id=com.app.pepperfry) — Pepperfry
+- [Purplle](https://play.google.com/store/search?q=Purplle&c=apps)
+- [RD click: Online Grocery App](https://play.google.com/store/apps/details?id=com.honebi.ratnadeep) — Ratnadeep Retail Pvt Ltd
+- [Rentomojo](https://play.google.com/store/search?q=Rentomojo&c=apps)
+- [Shoppers Search - Shopping app](https://play.google.com/store/apps/details?id=online.shopping.shoppers.search) — Vicky Bonick
+- [Shoppers Stop Fashion Shopping](https://play.google.com/store/apps/details?id=shoppersstop.shoppersstop) — Shoppers Stop
+- [Shopsy](https://play.google.com/store/search?q=Shopsy&c=apps)
+- [Slikk: 60-Min Fashion Delivery](https://play.google.com/store/search?q=Slikk%3A%2060-Min%20Fashion%20Delivery&c=apps) — Slikk
+- [Slikk: Fashion in 60 Mins](https://play.google.com/store/apps/details?id=app.slikk.club) — Sliksync Technologies Private Limited
+- [Snapdeal](https://play.google.com/store/search?q=Snapdeal&c=apps) — Snapdeal
+- [SSBeauty: Beauty Shopping App](https://play.google.com/store/search?q=SSBeauty%3A%20Beauty%20Shopping%20App&c=apps)
+- [SUBKUZ](https://play.google.com/store/apps/details?id=softa.subkuz.news) — Softa Technologies
+- [Tata CLiQ Fashion Shopping](https://play.google.com/store/search?q=Tata%20CLiQ%20Fashion%20Shopping&c=apps) — Tata CLiQ
+- [Tata CLiQ Luxury Shopping App](https://play.google.com/store/search?q=Tata%20CLiQ%20Luxury%20Shopping%20App&c=apps) — Tata CLiQ
+- [Tata CLiQ Palette: Shop Beauty](https://play.google.com/store/search?q=Tata%20CLiQ%20Palette%3A%20Shop%20Beauty&c=apps) — Tata CLiQ
+- [Tata Neu](https://play.google.com/store/search?q=Tata+Neu&c=apps) — Tata Digital
+- [The Souled Store: Shopping App](https://play.google.com/store/apps/details?id=com.thesouledstore) — The Souled Store
+- [Tira: Online Beauty Shopping](https://play.google.com/store/apps/details?id=com.ril.tira) — Reliance Retail
+- [Urban Company](https://play.google.com/store/search?q=Urban+Company&c=apps) — Urban Company
+- [Zepto](https://play.google.com/store/apps/details?id=com.zeptoconsumerapp)
+
+## Travel, Mobility & Commute
+
+_54 apps_
+
+- [AbhiBus](https://play.google.com/store/search?q=AbhiBus&c=apps) — ixigo
+- [Adani OneApp: For Smart Travel](https://play.google.com/store/search?q=Adani%20OneApp%3A%20For%20Smart%20Travel&c=apps) — Adani Digital Labs
+- [Adani OneApp: Your Airport App](https://play.google.com/store/apps/details?id=com.adanione.android) — Adani Digital Labs
+- [Bharat Maps](https://play.google.com/store/apps/details?id=com.bharat.bharatmaps) — Kesari Bharat Remote Naviagtion Soutions Pvt. Ltd.
+- [BluSmart](https://play.google.com/store/search?q=BluSmart&c=apps)
+- [Chalo](https://play.google.com/store/search?q=Chalo&c=apps)
+- [Chartr](https://play.google.com/store/search?q=Chartr&c=apps)
+- [ClearTrip](https://play.google.com/store/search?q=ClearTrip&c=apps) — Cleartrip
+- [ConfirmTkt](https://play.google.com/store/search?q=ConfirmTkt&c=apps) — ixigo / Le Travenues Technology (Bengaluru)
+- [Deepam Taxi: Book Taxi In A Go](https://play.google.com/store/search?q=Deepam%20Taxi%3A%20Book%20Taxi%20In%20A%20Go&c=apps)
+- [Digi Yatra](https://play.google.com/store/apps/details?id=org.digiyatra.org) — Digi Yatra Foundation
+- [Durg: Offline navigation](https://play.google.com/store/apps/details?id=app.durg.offlinenavigation) — Zingaat
+- [EaseMyTrip](https://play.google.com/store/search?q=EaseMyTrip&c=apps) — Easy Trip Planners Limited
+- [Explurger](https://play.google.com/store/search?q=Explurger&c=apps)
+- [Fastag App (IHMCL)](https://play.google.com/store/search?q=Fastag+App+%28IHMCL%29&c=apps)
+- [Fasttrack Cabs : Safe Taxi](https://play.google.com/store/search?q=Fasttrack%20Cabs%20%3A%20Safe%20Taxi&c=apps)
+- [GaadiBooking - Outstation cabs](https://play.google.com/store/search?q=GaadiBooking%20-%20Outstation%20cabs&c=apps)
+- [Goa Taxi](https://play.google.com/store/search?q=Goa%20Taxi&c=apps)
+- [Goibibo](https://play.google.com/store/search?q=Goibibo&c=apps) — MakeMyTrip
+- [Gozo Cabs - Travel all India](https://play.google.com/store/search?q=Gozo%20Cabs%20-%20Travel%20all%20India&c=apps) — Gozo Cabs
+- [Happay Travel](https://play.google.com/store/apps/details?id=com.happay.v2.travel) — Happay Expense
+- [Happy Travel](https://play.google.com/store/search?q=Happy%20Travel&c=apps)
+- [immiNex™](https://play.google.com/store/apps/details?id=com.imminex) — Nexever Private Limited
+- [India Taxi -Book Cabs/Taxi](https://play.google.com/store/search?q=India%20Taxi%20-Book%20Cabs/Taxi&c=apps)
+- [InDrive India](https://play.google.com/store/search?q=InDrive+India&c=apps)
+- [ixigo](https://play.google.com/store/search?q=ixigo&c=apps) — Le Travenues Technology (Gurugram)
+- [ixigo Train, Bus, Metro Ticket](https://play.google.com/store/apps/details?id=com.ixigo.train.ixitrain) — ixigo - IRCTC Authorised Partner, Flight Tickets
+- [m-indicator](https://play.google.com/store/search?q=m-indicator&c=apps)
+- [m-Indicator: Mumbai Local](https://play.google.com/store/apps/details?id=com.mobond.mindicator) — Mobond
+- [MakeMyTrip](https://play.google.com/store/search?q=MakeMyTrip&c=apps)
+- [MakeMyTrip: Hotel, Flight, Bus](https://play.google.com/store/apps/details?id=com.makemytrip) — MakeMyTrip: Flight, Hotel, Bus, IRCTC Train Ticket
+- [Mana Yatri: Bike, Auto & Cabs](https://play.google.com/store/search?q=Mana%20Yatri%3A%20Bike%2C%20Auto%20%26%20Cabs&c=apps)
+- [Meru Cabs- Airport & Rental](https://play.google.com/store/search?q=Meru%20Cabs-%20Airport%20%26%20Rental&c=apps) — Meru Cabs
+- [MoveInSync](https://play.google.com/store/search?q=MoveInSync&c=apps)
+- [MoveMate - Move Connect Belong](https://play.google.com/store/apps/details?id=life.movemate.movemate) — PMG ENGINEERING PRIVATE LIMITED abhinav.pandey
+- [Namma Yatri](https://play.google.com/store/search?q=Namma+Yatri&c=apps)
+- [NaviMaps: 3D GPS Navigation](https://play.google.com/store/search?q=NaviMaps%3A%203D%20GPS%20Navigation&c=apps)
+- [Odisha Yatri - Auto, Cab & Bus](https://play.google.com/store/apps/details?id=in.mobility.odishayatri) — Moving Tech Innovations
+- [Ola](https://play.google.com/store/apps/details?id=com.olacabs.customer)
+- [Ola Maps](https://play.google.com/store/search?q=Ola%20Maps&c=apps)
+- [OnCabs - Book Bike, Auto & Cab](https://play.google.com/store/search?q=OnCabs%20-%20Book%20Bike%2C%20Auto%20%26%20Cab&c=apps)
+- [One Way Cab](https://play.google.com/store/search?q=One%20Way%20Cab&c=apps)
+- [OYO Rooms](https://play.google.com/store/search?q=OYO%20Rooms&c=apps) — Oravel Stays (Gurugram)
+- [Park+](https://play.google.com/store/search?q=Park%2B&c=apps)
+- [Rapido](https://play.google.com/store/apps/details?id=com.rapido.passenger)
+- [redBus](https://play.google.com/store/apps/details?id=com.redbus.app)
+- [SadakSense](https://play.google.com/store/apps/details?id=com.sadaksense.app) — PMG ENGINEERING PRIVATE LIMITED abhinav.pandey
+- [Sanskriti by Mappls MapmyIndia](https://play.google.com/store/search?q=Sanskriti%20by%20Mappls%20MapmyIndia&c=apps) — MapmyIndia (Mappls)
+- [Savaari - Car Rental & Taxi](https://play.google.com/store/search?q=Savaari%20-%20Car%20Rental%20%26%20Taxi&c=apps) — Savaari Car Rentals
+- [Train App: Easy Ticket Booking](https://play.google.com/store/apps/details?id=com.railyatri.in.mobile) — RailYatri
+- [Train Ticket Booking, Status](https://play.google.com/store/apps/details?id=com.rails.red) — redBus (redRail)
+- [Where is my Train](https://play.google.com/store/search?q=Where+is+my+Train&c=apps)
+- [Yatra](https://play.google.com/store/search?q=Yatra&c=apps) — Yatra Online (Gurugram)
+- [Yulu](https://play.google.com/store/search?q=Yulu&c=apps)
+
+## Gaming & Esports
+
+_42 apps_
+
+- [A23 Games](https://play.google.com/store/search?q=A23+Games&c=apps)
+- [Addictive Games™](https://play.google.com/store/apps/details?id=com.gametion.offlinegames) — Gametion
+- [Ball Blast Tower](https://play.google.com/store/apps/details?id=com.gametion.action.king) — Gametion
+- [Bubble Shooter](https://play.google.com/store/apps/details?id=com.creativethinkers.bubbleshooter) — Creativethinkers
+- [Bubble Shooter King](https://play.google.com/store/apps/details?id=com.gametion.bubble.shooter) — Gametion
+- [Bubble Shooter Multiplayer](https://play.google.com/store/apps/details?id=com.bubble.shooter.multiplayer) — Gametion
+- [Bus Jam](https://play.google.com/store/apps/details?id=com.bus.jam) — Audify Player.
+- [Carrom King™](https://play.google.com/store/apps/details?id=com.git.carromking) — Gametion
+- [Carrom Pool (SuperChef)](https://play.google.com/store/search?q=Carrom+Pool+%28SuperChef%29&c=apps)
+- [Donkey Master](https://play.google.com/store/apps/details?id=in.codehound.donkey) — CodeHound
+- [Dream11](https://play.google.com/store/apps/details?id=com.dream11.fantasy11nfigo)
+- [FAU-G](https://play.google.com/store/search?q=FAU-G&c=apps)
+- [FAU-G: Domination](https://play.google.com/store/search?q=FAU-G%3A%20Domination&c=apps)
+- [Football World - Online Soccer](https://play.google.com/store/apps/details?id=com.audify.football) — Audify Player.
+- [GameBox: 8 Fun Games](https://play.google.com/store/apps/details?id=com.vikrams.games) — VR  Labs
+- [Hitwicket Anvil](https://play.google.com/store/search?q=Hitwicket+Anvil&c=apps)
+- [Hitwicket Superstars](https://play.google.com/store/apps/details?id=cricketgames.hitwicket.strategy) — Hitwicket
+- [Juice Pop Mania](https://play.google.com/store/apps/details?id=com.creativethinkers.juicepopmania) — Creativethinkers
+- [Junglee Rummy](https://play.google.com/store/search?q=Junglee+Rummy&c=apps)
+- [Ludo King](https://play.google.com/store/apps/details?id=com.ludo.king)
+- [Magic Crush — Match 3 Puzzle](https://play.google.com/store/apps/details?id=com.sugar.rush) — Audify Player.
+- [MaskGun: FPS Shooting Gun Game](https://play.google.com/store/apps/details?id=com.junesoftware.maskgun) — SuperGaming
+- [Math Games: Math for Kids](https://play.google.com/store/apps/details?id=com.rvappstudios.math.games.kids.addition.subtraction.multiplication.division) — RV AppStudios
+- [MPL (Mobile Premier League)](https://play.google.com/store/search?q=MPL+%28Mobile+Premier+League%29&c=apps)
+- [My11Circle](https://play.google.com/store/search?q=My11Circle&c=apps)
+- [MyTeam11](https://play.google.com/store/search?q=MyTeam11&c=apps)
+- [Nazara Games](https://play.google.com/store/search?q=Nazara+Games&c=apps)
+- [Prime Rush](https://play.google.com/store/apps/details?id=com.indusgame.play) — SuperGaming SG
+- [Real Cricket 24](https://play.google.com/store/search?q=Real+Cricket+24&c=apps)
+- [Rummy Twist with Joker](https://play.google.com/store/apps/details?id=com.blastplus.gdrff) — Blast+ Games
+- [RummyCircle](https://play.google.com/store/search?q=RummyCircle&c=apps)
+- [ScarFall: The Royale Combat](https://play.google.com/store/apps/details?id=xsquads.scarfall.battleroyaleGame) — XSQUADS
+- [Screw Jam - Nut Jam](https://play.google.com/store/apps/details?id=com.screw.jam) — Audify Player.
+- [Snakes and Ladders King](https://play.google.com/store/apps/details?id=com.gametion.snakesladders) — Gametion
+- [Sudoku King®](https://play.google.com/store/apps/details?id=com.gametion.sudokuking) — Gametion
+- [Teen Patti by Octro](https://play.google.com/store/search?q=Teen+Patti+by+Octro&c=apps)
+- [Teen Patti King 3 Patti Rummy](https://play.google.com/store/apps/details?id=com.gametion.teenpatti) — Gametion
+- [Tetris Lite](https://play.google.com/store/apps/details?id=com.vikrams.tetris) — VR  Labs
+- [Tile Match](https://play.google.com/store/apps/details?id=com.tilematch.game) — Audify Player.
+- [Tower Conquest: Tower Defense](https://play.google.com/store/apps/details?id=com.sgiggle.towerconquest) — SuperGaming
+- [World Cricket Championship 2](https://play.google.com/store/apps/details?id=com.nextwave.wcc2) — Nextwave Multimedia
+- [World Cricket Championship 3 (WCC3)](https://play.google.com/store/search?q=World+Cricket+Championship+3+%28WCC3%29&c=apps)
+
+## Food Delivery, Restaurants & Logistics
+
+_23 apps_
+
+- [Blowhorn](https://play.google.com/store/search?q=Blowhorn&c=apps)
+- [Country Delight](https://play.google.com/store/search?q=Country+Delight&c=apps)
+- [Delhivery](https://play.google.com/store/search?q=Delhivery&c=apps)
+- [Domino's India (Jubilant)](https://play.google.com/store/search?q=Domino%27s+India+%28Jubilant%29&c=apps)
+- [Dunzo](https://play.google.com/store/search?q=Dunzo&c=apps)
+- [Eatsure](https://play.google.com/store/search?q=Eatsure&c=apps)
+- [Faasos](https://play.google.com/store/search?q=Faasos&c=apps)
+- [FreshToHome](https://play.google.com/store/search?q=FreshToHome&c=apps)
+- [Indian Food Recipes Offline](https://play.google.com/store/apps/details?id=com.ma.cc.indian) — Edutainment Ventures- Making Games People Play
+- [Licious](https://play.google.com/store/search?q=Licious&c=apps)
+- [Magicpin](https://play.google.com/store/search?q=Magicpin&c=apps)
+- [MilkBasket](https://play.google.com/store/search?q=MilkBasket&c=apps)
+- [MOJO Pizza](https://play.google.com/store/search?q=MOJO+Pizza&c=apps)
+- [Ovenstory](https://play.google.com/store/search?q=Ovenstory&c=apps)
+- [Porter](https://play.google.com/store/search?q=Porter&c=apps)
+- [Rebel Foods](https://play.google.com/store/search?q=Rebel+Foods&c=apps)
+- [Shadowfax](https://play.google.com/store/search?q=Shadowfax&c=apps)
+- [Shiprocket](https://play.google.com/store/search?q=Shiprocket&c=apps)
+- [Swiggy](https://play.google.com/store/apps/details?id=in.swiggy.android)
+- [Tasty Punjab AU](https://play.google.com/store/apps/details?id=com.tastypunjab) — Nexever Private Limited
+- [Tasty Punjab Driver](https://play.google.com/store/apps/details?id=com.tastypunjabdriver) — Nexever Private Limited
+- [Xpressbees](https://play.google.com/store/search?q=Xpressbees&c=apps)
+- [Zomato](https://play.google.com/store/apps/details?id=com.application.zomato)
+
+## Play Store alternatives (not Indian)
+
+_7 apps_
+
+- [APKMirror](https://www.apkmirror.com)
+- [APKPure](https://apkpure.com)
+- [Aptoide](https://en.aptoide.com)
+- [Aurora Store](https://auroraoss.com)
+- [F-Droid](https://f-droid.org)
+- [Obtainium](https://github.com/ImranR98/Obtainium)
+- [Uptodown](https://en.uptodown.com/android)
+
+## Indian Native App Store Platforms
+
+_2 apps_
+
+- [Indus Appstore](https://play.google.com/store/search?q=Indus+Appstore&c=apps)
+- [mSeva AppStore (apps.mgov.gov.in)](https://play.google.com/store/search?q=mSeva+AppStore+%28apps.mgov.gov.in%29&c=apps)
+
+
+## How to contribute
+
+Open an issue with a Play Store link, or send a pull request. See [CONTRIBUTING.md](CONTRIBUTING.md).
+
+## Honest notes
+
+- 910 entries have no package id yet, so their link is a Play search link.
+- Only 14 apps have a confirmed page on the Gov.in AppStore (apps.gov.in).
+- No ratings, download counts or review numbers are included.
+
+## License
+
+MIT. See [LICENSE](LICENSE).
