@@ -1,0 +1,4 @@
+name,package,developer,category,play_category,play_url,website_url,govt_url,open_source,status,has_icon
+BCCI,tv.bcci,BCCI,Other Indian Apps,Sports,https://play.google.com/store/apps/details?id=tv.bcci,,,Unknown,Active,Yes
+IPL,com.pulselive.bcci.android,BCCI,Other Indian Apps,Sports,https://play.google.com/store/apps/details?id=com.pulselive.bcci.android,,,Unknown,Active,Yes
+WPL,com.wplt20.app,Board of Control for Cricket in India (BCCI),Other Indian Apps,Sports,https://play.google.com/store/apps/details?id=com.wplt20.app,,,Unknown,Active,Yes
